@@ -1,0 +1,1001 @@
+ID,Date de vente,Nom du client,Produit,Catégorie,Quantité,Prix unitaire,Total,Mode de paiement,Ville
+1,2023-09-11,Caleb Orr,Ballon de foot,Sport,2,176.78,353.56,Cryptomonnaie,Frostland
+2,2023-12-09,Brian Thomas,Lit,Mobilier,5,644.76,3223.8,Cryptomonnaie,Dennisfort
+3,2024-07-14,Melissa Walker,Armoire,Mobilier,2,735.91,1471.82,PayPal,New Brandy
+4,2024-06-02,Christine Hudson,Café,Alimentation,6,1486.59,8919.54,Cryptomonnaie,Garyport
+5,2023-11-30,John Wilson,Biscuits,Alimentation,7,554.58,3882.06,Espèces,Amyside
+6,2024-11-22,Frank Miller,Sweatshirt,Vêtements,1,1443.43,1443.43,Espèces,South Debbie
+7,2023-09-14,Amy Smith,Canapé,Mobilier,8,1107.24,8857.92,Carte bancaire,New Samanthachester
+8,2025-02-18,Douglas Lloyd,Haltères,Sport,10,1105.3,11053.0,Espèces,Joshuahaven
+9,2023-06-20,Danielle Barrera,Table,Mobilier,10,432.74,4327.4,Cryptomonnaie,Bruceborough
+10,2024-10-31,Stephanie Stanley,Ballon de foot,Sport,5,1228.63,6143.15,Carte bancaire,Lake Brittany
+11,2023-12-27,Catherine Rodriguez,Smartphone,Électronique,7,1421.94,9953.58,Cryptomonnaie,Rothbury
+12,2023-07-01,Matthew Wilkins,Canapé,Mobilier,3,1401.64,4204.92,PayPal,Thomasbury
+13,2023-09-16,Alan Meyer,Raquette de tennis,Sport,8,1721.37,13770.96,Virement,Wilsonton
+14,2025-02-24,Patrick Rios,Chocolat,Alimentation,6,1410.29,8461.74,Espèces,Lake Brandy
+15,2025-01-02,Autumn Jones,Jus de fruits,Alimentation,1,830.26,830.26,Virement,East Laurashire
+16,2024-05-30,Barbara Potter,Tapis de yoga,Sport,7,1207.45,8452.15,Carte bancaire,West Diana
+17,2024-07-18,Brooke Davis,Ballon de foot,Sport,8,971.71,7773.68,Espèces,South Shawn
+18,2023-05-14,Charles Wilson,Jus de fruits,Alimentation,9,1967.77,17709.93,Virement,Daybury
+19,2024-01-08,Mark Young,Tablette,Électronique,4,1936.39,7745.56,Espèces,Lake Brianhaven
+20,2025-01-28,Deborah Lucas,T-shirt,Vêtements,5,130.02,650.1,Espèces,Jasminebury
+21,2024-12-14,Alicia Gonzalez,Ballon de foot,Sport,1,254.46,254.46,Carte bancaire,New Jamesfurt
+22,2023-05-03,Linda Spencer,Veste,Vêtements,4,1087.64,4350.56,Cryptomonnaie,Brewershire
+23,2024-10-17,Omar Flores,Jus de fruits,Alimentation,10,1101.25,11012.5,Espèces,Lake Cherylside
+24,2024-12-08,Julie Burgess,Sweatshirt,Vêtements,10,995.45,9954.5,Carte bancaire,Johnfurt
+25,2023-06-16,Juan Brown,Chaussures,Vêtements,5,1434.27,7171.35,PayPal,North Jasmine
+26,2024-05-08,Chris Vasquez,Jus de fruits,Alimentation,5,806.98,4034.9,Espèces,Omarfort
+27,2023-07-04,Anthony Vargas,Thé,Alimentation,9,285.38,2568.42,Cryptomonnaie,North Jesseside
+28,2024-09-02,Denise Russo,Casque audio,Électronique,4,143.63,574.52,Virement,Mossfurt
+29,2024-09-30,Maria Delgado,Montre connectée,Électronique,3,1672.27,5016.81,Virement,North Amy
+30,2024-11-12,Amanda Zimmerman,Sweatshirt,Vêtements,8,1126.38,9011.04,Espèces,New Carolineberg
+31,2023-05-20,Andrew Cummings,Montre connectée,Électronique,9,1195.21,10756.89,Espèces,New Karen
+32,2024-02-13,Carrie Arnold,Biscuits,Alimentation,7,940.97,6586.79,Carte bancaire,East Steven
+33,2024-06-19,Angelica Henderson,Tablette,Électronique,2,194.34,388.68,Cryptomonnaie,Lake Dylan
+34,2023-08-02,Denise Allen,T-shirt,Vêtements,10,1648.72,16487.2,Virement,Port Keith
+35,2023-05-18,Justin Cooper,Jus de fruits,Alimentation,8,657.8,5262.4,Carte bancaire,Zimmermanburgh
+36,2024-06-10,Margaret Morrison,Casque audio,Électronique,10,1145.45,11454.5,Espèces,Anthonyview
+37,2024-08-22,Melinda Hatfield,Thé,Alimentation,10,426.43,4264.3,PayPal,Port Rebeccamouth
+38,2024-11-01,Robert Johnston,Montre connectée,Électronique,7,1402.02,9814.14,Carte bancaire,Blackmouth
+39,2024-03-04,Lori Miranda,Café,Alimentation,1,1963.98,1963.98,Espèces,South Bradley
+40,2024-05-01,Nina Moore,Chaussures,Vêtements,3,483.46,1450.38,Virement,East Isaac
+41,2024-09-22,Alvin Gonzalez,Lit,Mobilier,5,280.77,1403.85,Virement,Burnettchester
+42,2023-12-15,Sarah Williams,Raquette de tennis,Sport,8,1547.74,12381.92,Espèces,Port Lynnport
+43,2023-12-28,Daniel Howard MD,Chaise,Mobilier,3,983.21,2949.63,Carte bancaire,Williamville
+44,2024-10-01,Richard Phillips,Ballon de foot,Sport,8,650.7,5205.6,Espèces,Millerfort
+45,2025-02-09,Ryan Nixon,T-shirt,Vêtements,5,211.87,1059.35,PayPal,Juanstad
+46,2024-08-26,Ralph Jones,Chocolat,Alimentation,5,1186.37,5931.85,Carte bancaire,Lopezborough
+47,2023-07-21,Matthew Williams,Veste,Vêtements,2,1054.5,2109.0,Cryptomonnaie,Julieside
+48,2023-05-30,Wanda Hicks,Chocolat,Alimentation,6,1502.49,9014.94,Espèces,North Amanda
+49,2024-05-29,Leonard Vaughn,T-shirt,Vêtements,1,1345.82,1345.82,Carte bancaire,Williamsonfurt
+50,2023-10-06,Brian Yates,T-shirt,Vêtements,1,554.61,554.61,Carte bancaire,South Melanieside
+51,2024-06-21,Karen Kim,Table,Mobilier,2,1237.05,2474.1,Cryptomonnaie,New William
+52,2023-09-05,Eugene Lewis,Biscuits,Alimentation,5,964.25,4821.25,Espèces,Chapmanbury
+53,2023-11-03,Ashley Jones,Smartphone,Électronique,2,1781.54,3563.08,Carte bancaire,New Alexandra
+54,2024-02-27,Nicholas Dixon,Ballon de foot,Sport,9,851.02,7659.18,Carte bancaire,Stuartview
+55,2024-03-25,Debra Rush,Ordinateur portable,Électronique,10,865.7,8657.0,Espèces,Martinezburgh
+56,2023-10-09,Jacqueline Bennett,Ordinateur portable,Électronique,2,742.11,1484.22,PayPal,Judithberg
+57,2023-06-11,Ronald Castillo,Chaussures,Vêtements,6,391.96,2351.76,Cryptomonnaie,Wardton
+58,2024-12-25,Joseph Buchanan,Vélo d'appartement,Sport,8,1662.85,13302.8,Espèces,Ryanburgh
+59,2023-08-01,Jeffrey Torres,Vélo d'appartement,Sport,7,140.58,984.06,Carte bancaire,Hendersonview
+60,2025-02-06,Jamie Hanson,Ordinateur portable,Électronique,4,962.47,3849.88,PayPal,Jordanside
+61,2023-08-28,Christina Bell,Tablette,Électronique,9,1818.68,16368.12,Carte bancaire,New Meganland
+62,2025-03-15,Joseph Brewer,Armoire,Mobilier,1,1924.96,1924.96,Espèces,Anthonystad
+63,2024-12-13,Kaitlin Thomas,Montre connectée,Électronique,1,351.33,351.33,Carte bancaire,Andreborough
+64,2024-04-06,Jennifer Hopkins,Armoire,Mobilier,9,1300.99,11708.91,Espèces,Markshire
+65,2024-08-12,Douglas May,Jus de fruits,Alimentation,2,417.16,834.32,Cryptomonnaie,South Kimberly
+66,2023-08-22,Jack Hanson,Casque audio,Électronique,6,288.49,1730.94,Carte bancaire,West Donald
+67,2025-03-15,Joshua Horton,Table,Mobilier,1,334.79,334.79,Virement,Julieland
+68,2023-06-18,Kristine Burke,T-shirt,Vêtements,2,1396.73,2793.46,PayPal,Richardsview
+69,2024-12-18,Tracy Hubbard,Sweatshirt,Vêtements,4,128.22,512.88,PayPal,Ericfurt
+70,2023-05-11,Jeffrey Hicks,Canapé,Mobilier,2,1377.8,2755.6,Carte bancaire,North Danielle
+71,2024-05-30,Michael Spencer,Jus de fruits,Alimentation,5,1742.3,8711.5,Virement,Johnsonburgh
+72,2023-11-09,Karen Myers,Casque audio,Électronique,4,133.92,535.68,Virement,Aguilarland
+73,2023-04-25,Adam Jordan MD,Chaussures,Vêtements,4,1270.28,5081.12,PayPal,Alyssaton
+74,2024-06-12,Judith Williams,Biscuits,Alimentation,9,574.49,5170.41,Virement,Susanfort
+75,2024-05-09,Patrick Ortiz,Chaise,Mobilier,4,1599.46,6397.84,PayPal,Welchview
+76,2024-04-18,Ann Kelley,Haltères,Sport,7,1047.94,7335.58,PayPal,Stacieview
+77,2023-08-01,Julie Terrell,Haltères,Sport,5,1699.05,8495.25,Cryptomonnaie,Jeffreyland
+78,2024-11-06,Joseph Williams,Montre connectée,Électronique,3,1401.22,4203.66,Virement,West Phillipborough
+79,2024-11-24,Bryan Mendez,Haltères,Sport,8,878.06,7024.48,PayPal,Port Joshua
+80,2023-09-13,Victor Buck,Montre connectée,Électronique,9,1706.84,15361.56,PayPal,Lake James
+81,2023-12-03,Kyle Bradley,Canapé,Mobilier,7,290.58,2034.06,Espèces,Nathanielfurt
+82,2023-04-12,Sylvia Rodriguez,Sweatshirt,Vêtements,5,22.56,112.8,Espèces,Stevenchester
+83,2024-05-07,Jerry Cook,Vélo d'appartement,Sport,9,424.28,3818.52,Virement,North Rebekah
+84,2024-02-14,Laurie Casey MD,Montre connectée,Électronique,4,1282.36,5129.44,Cryptomonnaie,Jonesland
+85,2023-09-16,Patrick Rowe,Ordinateur portable,Électronique,7,725.43,5078.01,PayPal,Miaside
+86,2024-02-24,Travis Henry,Thé,Alimentation,8,1136.41,9091.28,Espèces,Sharonside
+87,2025-01-02,Christopher Stone,Chaise,Mobilier,3,1386.14,4158.42,Espèces,Christystad
+88,2024-12-04,Brenda Hill,Jean,Vêtements,2,8.96,17.92,Espèces,Frenchshire
+89,2025-01-18,Steven Perez,Chaise,Mobilier,2,573.57,1147.14,PayPal,Charlotteport
+90,2023-07-16,Matthew Forbes,Lit,Mobilier,3,193.7,581.1,Carte bancaire,Clarkbury
+91,2023-08-21,Andrea Thomas,Jean,Vêtements,8,1091.77,8734.16,PayPal,North Paulton
+92,2024-04-14,Lori Reyes,Tapis de yoga,Sport,10,1083.93,10839.3,Cryptomonnaie,Bakerfort
+93,2023-05-03,Sherri Rivera,Table,Mobilier,7,1994.22,13959.54,PayPal,North Sherryview
+94,2024-05-19,Stephanie Cummings,Haltères,Sport,4,595.65,2382.6,Espèces,Port Anthony
+95,2023-12-10,Tiffany Williams,Chaise,Mobilier,4,564.88,2259.52,PayPal,Gomezville
+96,2024-07-08,Michael Ramirez,Chaussures,Vêtements,10,946.24,9462.4,PayPal,Michelleport
+97,2024-11-25,Jonathan Williams,Biscuits,Alimentation,9,68.08,612.72,Espèces,Rogersfurt
+98,2023-10-19,Trevor Barrett,Chaussures,Vêtements,4,231.64,926.56,Espèces,East Ronald
+99,2023-07-02,Cristian Bass,Biscuits,Alimentation,8,199.94,1599.52,Cryptomonnaie,Aliciahaven
+100,2023-04-04,Janet Moreno,Sweatshirt,Vêtements,4,1338.55,5354.2,Carte bancaire,Philipmouth
+101,2023-12-14,Angela Thompson,Raquette de tennis,Sport,6,1653.76,9922.56,PayPal,West Michael
+102,2024-10-14,Alexandria Morrison,Tablette,Électronique,1,1955.19,1955.19,PayPal,Paulville
+103,2024-03-30,Donna Strickland,Tablette,Électronique,8,1880.93,15047.44,Cryptomonnaie,Alexandraton
+104,2023-04-06,Ronald Stevens,Armoire,Mobilier,10,798.5,7985.0,Virement,West Paulfort
+105,2024-06-01,Brenda Fox,Tablette,Électronique,3,232.86,698.58,Cryptomonnaie,Cynthiahaven
+106,2024-11-05,Frederick Fitzgerald,Ordinateur portable,Électronique,6,233.41,1400.46,Cryptomonnaie,East Gregory
+107,2024-10-29,Jessica Pollard,Canapé,Mobilier,10,1265.38,12653.8,Virement,West Christopher
+108,2024-08-24,Kimberly King,Armoire,Mobilier,6,401.34,2408.04,Carte bancaire,Bernardview
+109,2023-06-12,David Davis,Jus de fruits,Alimentation,6,1195.31,7171.86,Virement,South Benjamin
+110,2023-09-15,Andrew Williams,Chaise,Mobilier,10,1582.33,15823.3,Virement,Riverachester
+111,2023-05-16,Robert Hernandez,Biscuits,Alimentation,10,158.85,1588.5,Espèces,Port Jacob
+112,2023-10-27,Brian Anderson,Armoire,Mobilier,8,706.89,5655.12,Espèces,North Zacharyberg
+113,2023-07-21,Jason Villanueva,Raquette de tennis,Sport,10,973.87,9738.7,Virement,South Christophershire
+114,2023-05-25,Brandon Clark,Tablette,Électronique,7,1555.42,10887.94,Virement,South Christopher
+115,2024-11-29,Elizabeth Cole,Chocolat,Alimentation,6,436.38,2618.28,PayPal,West Kathleen
+116,2024-09-12,Damon Jones,Biscuits,Alimentation,5,1256.48,6282.4,PayPal,Chanbury
+117,2024-10-19,Amy Murray,Vélo d'appartement,Sport,6,1746.89,10481.34,Carte bancaire,North Sarahtown
+118,2024-01-04,David Davis,Café,Alimentation,4,1882.1,7528.4,Cryptomonnaie,Christensenchester
+119,2025-02-23,Jeffrey Taylor,Casque audio,Électronique,7,1448.21,10137.47,Cryptomonnaie,New Douglas
+120,2024-07-21,James Huerta,Sweatshirt,Vêtements,8,498.58,3988.64,Cryptomonnaie,Cannonburgh
+121,2024-03-11,Cynthia Harris,Chocolat,Alimentation,2,298.65,597.3,Carte bancaire,Josephborough
+122,2023-12-09,Steven Anderson,Chaise,Mobilier,5,61.69,308.45,Espèces,Floydmouth
+123,2024-10-15,Megan Stanton,Tapis de yoga,Sport,8,1861.7,14893.6,Virement,Julieland
+124,2024-06-29,Linda Martin,Jean,Vêtements,6,1148.21,6889.26,Espèces,West Cindy
+125,2024-11-16,Laura Gallagher,Chocolat,Alimentation,10,190.87,1908.7,Cryptomonnaie,Moyerfurt
+126,2024-10-17,Brian Logan,Café,Alimentation,7,700.13,4900.91,Cryptomonnaie,Karenshire
+127,2023-04-11,Tiffany Smith,Canapé,Mobilier,3,1737.71,5213.13,Cryptomonnaie,East Rachelport
+128,2024-06-27,Jeanette Williams,Table,Mobilier,2,1721.37,3442.74,Carte bancaire,East Cliffordborough
+129,2024-01-09,Sydney Wallace,Montre connectée,Électronique,5,1283.14,6415.7,Cryptomonnaie,Williamsfurt
+130,2023-09-02,Mrs. Patricia Fitzgerald,Jean,Vêtements,9,884.39,7959.51,PayPal,New Levitown
+131,2023-04-20,Tina Hensley,Chaise,Mobilier,2,245.63,491.26,PayPal,New Elizabeth
+132,2024-07-17,Latoya Bailey,Chocolat,Alimentation,1,763.54,763.54,Virement,Port Kathleen
+133,2023-06-14,Dominic Richardson,Tablette,Électronique,3,633.21,1899.63,Carte bancaire,Waltersview
+134,2025-01-23,Michael Cruz,Café,Alimentation,4,1733.79,6935.16,PayPal,Benjaminland
+135,2024-08-31,Rebecca Thompson,Café,Alimentation,9,201.16,1810.44,Virement,East Janetshire
+136,2024-03-30,Brittany Hughes,Raquette de tennis,Sport,2,460.36,920.72,PayPal,Josemouth
+137,2024-09-19,Christopher Ross,Tapis de yoga,Sport,2,1801.99,3603.98,PayPal,Fowlershire
+138,2024-12-10,Peter Lopez,Lit,Mobilier,5,463.79,2318.95,PayPal,Robertsberg
+139,2024-05-05,Brian Becker,T-shirt,Vêtements,10,565.54,5655.4,Cryptomonnaie,West Anthony
+140,2023-11-12,Chris Ingram,Armoire,Mobilier,1,1995.0,1995.0,Carte bancaire,Port Geoffreyfurt
+141,2023-11-10,Edward Tate,Jus de fruits,Alimentation,2,1313.06,2626.12,Espèces,Brianborough
+142,2024-02-06,Catherine Miller,Veste,Vêtements,3,888.79,2666.37,Carte bancaire,Gilbertborough
+143,2024-06-01,Robert Chavez,Lit,Mobilier,7,1278.5,8949.5,PayPal,Saraborough
+144,2023-05-08,Kellie Kennedy,T-shirt,Vêtements,1,1790.46,1790.46,Carte bancaire,Robertshire
+145,2024-04-11,Crystal Taylor,Veste,Vêtements,6,188.66,1131.96,Espèces,East David
+146,2023-06-11,Mr. Daniel Martin,Tablette,Électronique,1,1804.0,1804.0,Virement,Crawfordhaven
+147,2024-06-07,Luis Conrad,Chaise,Mobilier,7,1811.57,12680.99,Carte bancaire,East Davidhaven
+148,2023-04-02,Brandon Moore,Tablette,Électronique,9,936.68,8430.12,Espèces,North Cassandra
+149,2024-01-26,Justin Carpenter,Raquette de tennis,Sport,2,1750.02,3500.04,Carte bancaire,East Jennifer
+150,2024-09-14,Christopher Ayers,Canapé,Mobilier,6,49.62,297.72,Virement,North Timothyville
+151,2025-02-07,Tyler White,Haltères,Sport,6,587.47,3524.82,Cryptomonnaie,New Jackton
+152,2024-04-02,Joshua Berg,Ordinateur portable,Électronique,5,909.31,4546.55,Cryptomonnaie,New Jessicamouth
+153,2023-12-06,Gina Richardson,Raquette de tennis,Sport,1,1785.54,1785.54,Carte bancaire,West Jose
+154,2024-12-07,Kevin Scott,Chaise,Mobilier,1,483.39,483.39,Carte bancaire,Aprilport
+155,2024-02-28,Mrs. Jessica Brooks,Café,Alimentation,1,1167.97,1167.97,Virement,Wadeton
+156,2023-12-27,Ernest Dawson,Table,Mobilier,4,1583.92,6335.68,Carte bancaire,Roblesville
+157,2023-07-30,Billy Reynolds,Jus de fruits,Alimentation,5,875.62,4378.1,PayPal,South Tylerview
+158,2023-10-18,Pamela Orr,Raquette de tennis,Sport,10,754.63,7546.3,Virement,Lake Courtney
+159,2023-10-23,Gregory Cohen,Haltères,Sport,6,1912.22,11473.32,Virement,Sandersbury
+160,2024-02-10,Eugene Kelley,Table,Mobilier,2,535.53,1071.06,Espèces,Fergusonhaven
+161,2024-09-02,Stephanie Adams,Jus de fruits,Alimentation,6,603.86,3623.16,PayPal,Osborneport
+162,2024-11-15,Douglas Chang,Jus de fruits,Alimentation,6,1689.18,10135.08,Virement,Lake Jerry
+163,2024-01-09,Michael Jackson,Vélo d'appartement,Sport,10,37.17,371.7,Espèces,New Kaitlyn
+164,2024-08-28,Daniel Williams,Veste,Vêtements,8,1975.63,15805.04,PayPal,Jacksonfort
+165,2024-07-30,Joe Rosario,Ordinateur portable,Électronique,6,1326.38,7958.28,Espèces,West Jill
+166,2023-07-17,Thomas Frost,Café,Alimentation,6,1069.03,6414.18,Cryptomonnaie,Port Misty
+167,2024-01-16,Dawn Jordan,Tablette,Électronique,5,1364.52,6822.6,Cryptomonnaie,New Joshua
+168,2025-01-05,Diana Trujillo,Tablette,Électronique,8,1474.04,11792.32,Virement,Lopezstad
+169,2024-06-23,Marilyn Brown,Jean,Vêtements,2,1032.32,2064.64,Espèces,Lake Jeffreyhaven
+170,2024-05-15,Kathy Robinson,Haltères,Sport,9,1203.65,10832.85,Carte bancaire,Port Ryanburgh
+171,2023-04-14,Matthew Mcdowell,Ordinateur portable,Électronique,6,1612.33,9673.98,Espèces,West Jacquelineville
+172,2024-10-12,Jessica Rogers,Jean,Vêtements,9,1268.71,11418.39,Cryptomonnaie,Christopherborough
+173,2024-03-13,George Mcneil,Armoire,Mobilier,2,1345.17,2690.34,PayPal,South Amandamouth
+174,2024-11-05,Kenneth Stewart,Tapis de yoga,Sport,3,767.16,2301.48,Virement,North Jeffreyburgh
+175,2023-05-18,Jason Harvey,Haltères,Sport,1,1691.39,1691.39,Carte bancaire,Schmidtbury
+176,2025-01-12,Matthew Saunders,Lit,Mobilier,8,1395.77,11166.16,Virement,Lake Kennethberg
+177,2024-07-19,Valerie Mccoy,Montre connectée,Électronique,8,203.71,1629.68,Carte bancaire,North Angela
+178,2025-02-16,Troy Rogers,Chocolat,Alimentation,1,1310.93,1310.93,Cryptomonnaie,Nixonmouth
+179,2023-09-20,Michelle Massey,Ballon de foot,Sport,5,241.27,1206.35,Espèces,East Donna
+180,2024-04-06,Morgan Wang,Ballon de foot,Sport,3,1977.47,5932.41,Espèces,Doyleview
+181,2023-09-04,Edward Larson,Biscuits,Alimentation,7,1400.61,9804.27,PayPal,Jonesstad
+182,2024-04-09,Susan Moreno,Tablette,Électronique,1,1121.02,1121.02,Cryptomonnaie,Martinezside
+183,2023-10-22,Noah Harrison,Smartphone,Électronique,2,205.08,410.16,Virement,East Paul
+184,2024-03-30,Kristen Black,Ballon de foot,Sport,6,538.43,3230.58,Espèces,East Margaretmouth
+185,2023-06-20,Heather Phillips,Chaussures,Vêtements,2,324.34,648.68,Virement,South Patricia
+186,2025-03-10,Christopher Williams,T-shirt,Vêtements,1,1098.15,1098.15,PayPal,West Rebecca
+187,2024-12-02,Anna Whitaker,Café,Alimentation,8,876.21,7009.68,PayPal,Collinsburgh
+188,2024-02-10,Sandra Pena,Lit,Mobilier,1,29.86,29.86,PayPal,Michaelside
+189,2025-01-01,Stephanie Brown,Jean,Vêtements,9,1821.12,16390.08,Carte bancaire,New Elizabeth
+190,2025-02-03,Tyler Martin,Jus de fruits,Alimentation,2,1979.08,3958.16,Carte bancaire,East Amber
+191,2023-09-19,Mike Lambert,Table,Mobilier,9,1340.18,12061.62,Carte bancaire,Hammondtown
+192,2023-04-07,Sarah Benjamin,Montre connectée,Électronique,1,336.05,336.05,PayPal,West Anthonyberg
+193,2023-07-30,Brianna Brooks,Chaussures,Vêtements,5,253.52,1267.6,PayPal,Scottchester
+194,2024-03-30,Charles Martinez,Café,Alimentation,3,1764.24,5292.72,Espèces,Lake Amy
+195,2023-07-05,Robert Williams,Thé,Alimentation,3,1554.67,4664.01,Virement,Port Marthamouth
+196,2025-01-02,Carol Obrien,Veste,Vêtements,10,906.32,9063.2,Cryptomonnaie,Robinland
+197,2023-08-13,Diana Brooks,Montre connectée,Électronique,2,190.37,380.74,PayPal,South Stephaniemouth
+198,2025-03-07,James Park,Casque audio,Électronique,1,855.88,855.88,Cryptomonnaie,North Whitney
+199,2024-11-15,James Parrish,T-shirt,Vêtements,3,1289.56,3868.68,Carte bancaire,North Kennethmouth
+200,2024-05-10,Katherine Rodriguez,Raquette de tennis,Sport,2,1382.03,2764.06,Carte bancaire,Lake Stephenfurt
+201,2023-07-01,Courtney Bright,Veste,Vêtements,6,772.49,4634.94,Espèces,Lake Toddhaven
+202,2025-02-27,Karen Mckinney,Jean,Vêtements,6,654.68,3928.08,Virement,Port Sharonside
+203,2025-02-10,Elizabeth Huerta,Veste,Vêtements,5,272.41,1362.05,Carte bancaire,Port Devin
+204,2024-05-04,Angela Martinez,Ordinateur portable,Électronique,4,159.65,638.6,Cryptomonnaie,Brownfort
+205,2024-08-16,Alexander Crawford,T-shirt,Vêtements,6,1686.39,10118.34,PayPal,New Waltermouth
+206,2024-12-02,Michael Williams,Ordinateur portable,Électronique,7,944.0,6608.0,Cryptomonnaie,Yangmouth
+207,2023-11-04,Alvin Yoder,Ballon de foot,Sport,2,1651.99,3303.98,Cryptomonnaie,Carolinetown
+208,2024-04-13,Benjamin Mcneil,Ballon de foot,Sport,1,361.71,361.71,Virement,Pennyland
+209,2023-08-16,Amanda Young,Jean,Vêtements,1,1499.36,1499.36,Virement,Tranfort
+210,2023-09-10,Crystal Matthews,Tablette,Électronique,9,459.62,4136.58,Carte bancaire,Elaineside
+211,2023-05-21,Tonya Diaz,Tablette,Électronique,10,412.08,4120.8,Cryptomonnaie,New Carla
+212,2023-05-21,Melvin Woods,Jean,Vêtements,6,969.16,5814.96,PayPal,Saundersborough
+213,2023-12-03,Jordan Yoder,Jus de fruits,Alimentation,9,1143.99,10295.91,Virement,Christopherbury
+214,2024-04-29,Lauren Wallace,Smartphone,Électronique,3,344.76,1034.28,Espèces,North David
+215,2024-06-09,Timothy Hopkins,Chaussures,Vêtements,10,287.17,2871.7,PayPal,Floydhaven
+216,2025-03-21,Chad May,Lit,Mobilier,8,608.59,4868.72,Cryptomonnaie,South Sara
+217,2023-05-13,Catherine French,Montre connectée,Électronique,2,1846.92,3693.84,PayPal,Lake Hannah
+218,2023-03-30,David Stone,Raquette de tennis,Sport,10,1449.03,14490.3,Espèces,Catherineborough
+219,2024-02-03,Jason Hahn,Chaise,Mobilier,4,265.92,1063.68,Carte bancaire,Johnsonchester
+220,2023-07-09,Stephanie Schultz,Jean,Vêtements,10,1434.13,14341.3,Carte bancaire,Aaronbury
+221,2024-04-03,Katie Bell,Tablette,Électronique,5,587.86,2939.3,Espèces,Timothyberg
+222,2023-04-01,Keith Bond,Biscuits,Alimentation,5,1479.39,7396.95,Espèces,Leslieside
+223,2024-08-01,Brittany Kennedy,Casque audio,Électronique,6,1810.85,10865.1,Virement,Mullinschester
+224,2023-07-17,William Cruz,Thé,Alimentation,4,512.92,2051.68,Cryptomonnaie,Andrewberg
+225,2025-02-03,Brandon Francis,Tapis de yoga,Sport,2,1007.8,2015.6,Virement,North Jesse
+226,2024-05-31,Mr. Marcus Lindsey,Table,Mobilier,1,429.54,429.54,Espèces,New Christophershire
+227,2023-11-13,Dana Pitts,Jus de fruits,Alimentation,3,743.7,2231.1,Virement,Port Kristen
+228,2024-12-19,Carmen Martin,Vélo d'appartement,Sport,9,1693.99,15245.91,Espèces,Port Jeanetteton
+229,2023-12-30,Christine Wilson,Chaise,Mobilier,3,225.29,675.87,Cryptomonnaie,Wilsonfort
+230,2023-11-15,William Webb,Sweatshirt,Vêtements,3,1278.7,3836.1,PayPal,New Davidside
+231,2024-09-15,Daniel Turner,Tapis de yoga,Sport,7,17.62,123.34,Cryptomonnaie,Gardnershire
+232,2025-02-23,Amy Lane,Tapis de yoga,Sport,10,1900.73,19007.3,Carte bancaire,Dylanberg
+233,2025-03-01,Gilbert Chen,Biscuits,Alimentation,6,1400.41,8402.46,Virement,Stephenchester
+234,2023-09-30,Stephanie Macdonald,Thé,Alimentation,4,318.31,1273.24,PayPal,West Dennis
+235,2023-06-06,Karen Cobb,Armoire,Mobilier,2,562.68,1125.36,Espèces,Griffinton
+236,2024-10-01,Danielle Calhoun,Jus de fruits,Alimentation,4,792.79,3171.16,Cryptomonnaie,Porterview
+237,2023-08-28,Nicole Ayala,Ordinateur portable,Électronique,5,693.17,3465.85,Espèces,East Crystal
+238,2023-08-05,Adam Brown,Haltères,Sport,4,1261.65,5046.6,Carte bancaire,Jessicachester
+239,2024-11-04,Marcus Nixon,Tablette,Électronique,9,867.18,7804.62,Cryptomonnaie,North John
+240,2024-03-01,Luke Flores,Armoire,Mobilier,5,810.3,4051.5,Cryptomonnaie,Taylorchester
+241,2024-04-17,Brian Pope,Tablette,Électronique,1,1986.06,1986.06,Cryptomonnaie,East Donna
+242,2024-01-05,Luis Short,Vélo d'appartement,Sport,2,1993.67,3987.34,Cryptomonnaie,Mcdonaldberg
+243,2023-06-04,Stephanie Aguilar,Smartphone,Électronique,2,98.92,197.84,Cryptomonnaie,Hudsonbury
+244,2023-06-18,Jessica Martinez,Haltères,Sport,10,747.33,7473.3,Virement,Kingtown
+245,2024-05-19,Jessica Chang,Vélo d'appartement,Sport,8,164.65,1317.2,PayPal,Port Erica
+246,2023-06-19,Douglas Bowman,Vélo d'appartement,Sport,10,637.35,6373.5,Virement,Port Stephen
+247,2024-01-12,Eric Fowler,Biscuits,Alimentation,5,1990.02,9950.1,Espèces,Port Stephenmouth
+248,2024-09-10,Shane Craig,Table,Mobilier,6,1842.07,11052.42,Virement,North Patriciaview
+249,2023-05-01,Michelle Smith,Café,Alimentation,4,1890.99,7563.96,PayPal,West Christopher
+250,2024-05-24,Leonard Perez,Montre connectée,Électronique,3,1276.13,3828.39,Carte bancaire,East Monicaton
+251,2023-12-29,Michael Heath,Raquette de tennis,Sport,8,1103.38,8827.04,Espèces,Limouth
+252,2024-02-03,Lauren Gilbert,Chaussures,Vêtements,6,1796.11,10776.66,Carte bancaire,Lake Kristina
+253,2023-06-28,Margaret Lewis,Jus de fruits,Alimentation,10,1467.64,14676.4,Espèces,East Sarahborough
+254,2023-09-24,Anthony Strickland,Armoire,Mobilier,5,1233.89,6169.45,Espèces,Anthonytown
+255,2024-06-12,Paula Wilson,Raquette de tennis,Sport,2,1882.45,3764.9,PayPal,New Trevor
+256,2025-01-23,Kenneth Wright,Jean,Vêtements,6,1480.84,8885.04,PayPal,Richardport
+257,2025-02-08,Christopher Simpson,Chaussures,Vêtements,10,846.04,8460.4,Carte bancaire,New Sabrinaburgh
+258,2024-07-12,Lisa Jimenez,Canapé,Mobilier,2,1178.8,2357.6,Virement,Mooreville
+259,2025-01-11,Gerald Kline,Chaise,Mobilier,10,888.22,8882.2,Virement,Richardfurt
+260,2024-12-17,Donald Lopez,Table,Mobilier,8,296.6,2372.8,Espèces,Port Cynthia
+261,2023-11-05,Taylor Stewart,Montre connectée,Électronique,8,139.14,1113.12,PayPal,Amberborough
+262,2025-01-08,Heather Silva,Thé,Alimentation,1,144.87,144.87,PayPal,Harrisfurt
+263,2025-03-22,Katie Johnson,Tablette,Électronique,2,716.21,1432.42,Carte bancaire,Wesleyhaven
+264,2024-12-13,Derek Gates,T-shirt,Vêtements,1,1022.23,1022.23,Espèces,Stewartfurt
+265,2024-11-28,Darlene Wagner,Tablette,Électronique,10,391.56,3915.6,Cryptomonnaie,Traciside
+266,2024-05-30,Nicole Stein,Haltères,Sport,5,1860.81,9304.05,PayPal,North Joshua
+267,2023-08-21,Sarah Oconnor,Table,Mobilier,8,1348.6,10788.8,Espèces,Port Davidshire
+268,2023-07-20,Tina Poole,Ballon de foot,Sport,7,1290.98,9036.86,Virement,Amytown
+269,2024-10-18,Catherine Rodriguez,Canapé,Mobilier,1,1431.07,1431.07,Virement,Ritterland
+270,2024-12-25,Stephanie Stevens,Tapis de yoga,Sport,5,776.57,3882.85,Carte bancaire,Reynoldsport
+271,2023-10-06,Jenny Allen,Jean,Vêtements,7,131.53,920.71,Virement,Port Stacyborough
+272,2025-01-20,Dustin Martinez,Jean,Vêtements,5,456.84,2284.2,Virement,Jensenton
+273,2024-02-16,Denise Weaver,Table,Mobilier,2,1159.51,2319.02,Carte bancaire,Tammyland
+274,2023-07-07,Sharon Wilson,Jus de fruits,Alimentation,9,352.05,3168.45,PayPal,Mercerton
+275,2023-08-07,Corey Brown,Veste,Vêtements,9,297.67,2679.03,Virement,Stokeston
+276,2023-12-13,Ricky Riggs,Canapé,Mobilier,5,1947.5,9737.5,Espèces,Port Jordan
+277,2024-12-18,Miranda Harris,Armoire,Mobilier,4,1568.99,6275.96,Espèces,Hopkinsfurt
+278,2023-05-10,Angela Brooks,Canapé,Mobilier,4,505.59,2022.36,Virement,North Jefferyton
+279,2025-03-15,Ashley Craig,Biscuits,Alimentation,3,533.22,1599.66,Carte bancaire,Torresland
+280,2023-12-18,Vincent Walker,Casque audio,Électronique,1,523.26,523.26,Virement,Tinachester
+281,2024-06-27,Kenneth Hopkins,Table,Mobilier,10,1590.43,15904.3,Virement,Medinafort
+282,2024-01-02,Leslie Jennings,Raquette de tennis,Sport,2,1642.74,3285.48,Virement,New Stacie
+283,2024-07-06,David Fowler,Vélo d'appartement,Sport,10,1240.84,12408.4,Cryptomonnaie,Carpenterfurt
+284,2024-08-31,Samuel Hill,Jus de fruits,Alimentation,6,1081.69,6490.14,Espèces,West Joanne
+285,2023-09-03,Miss Amy Scott,Chaussures,Vêtements,7,1039.02,7273.14,Virement,Coreystad
+286,2023-10-20,Daniel Marshall,Chaise,Mobilier,1,819.74,819.74,Virement,Patelfort
+287,2024-04-29,Eric Jones,Armoire,Mobilier,5,1882.11,9410.55,Carte bancaire,Port Craig
+288,2025-03-11,Jeffrey Livingston,Tapis de yoga,Sport,8,228.85,1830.8,Virement,Port Amandatown
+289,2023-08-21,Ryan Stephens,Smartphone,Électronique,7,358.25,2507.75,PayPal,New Jessemouth
+290,2024-09-03,Christopher Rivera,Thé,Alimentation,1,570.59,570.59,Espèces,East Sandra
+291,2023-05-22,Benjamin Johnson,Tablette,Électronique,8,1479.36,11834.88,Carte bancaire,Allenville
+292,2024-01-18,Joseph Douglas,Café,Alimentation,6,147.0,882.0,PayPal,North Nathanielstad
+293,2023-10-17,Courtney Stevens,Tapis de yoga,Sport,3,24.41,73.23,Virement,Lesterside
+294,2024-10-03,Stephen Garcia,Café,Alimentation,2,259.58,519.16,PayPal,Zacharyfort
+295,2025-03-06,Julie Foster,Raquette de tennis,Sport,8,1085.76,8686.08,Carte bancaire,North Natalie
+296,2023-12-17,Patrick Bryant,Montre connectée,Électronique,3,700.62,2101.86,Carte bancaire,Robersonhaven
+297,2024-01-09,Isaac King,Chaise,Mobilier,10,1733.28,17332.8,Espèces,Jamesmouth
+298,2024-12-22,Erica Houston,Chaise,Mobilier,10,1790.25,17902.5,Cryptomonnaie,Collinschester
+299,2024-12-25,Brian Murphy,Chocolat,Alimentation,2,92.04,184.08,PayPal,Port Joseph
+300,2024-08-28,Lori Hoffman,Tablette,Électronique,3,1567.04,4701.12,Cryptomonnaie,Port Darren
+301,2024-08-14,Jade Smith,T-shirt,Vêtements,1,638.32,638.32,Carte bancaire,Chenberg
+302,2024-11-09,Diane Johnson,Biscuits,Alimentation,9,1411.28,12701.52,Cryptomonnaie,Jerryshire
+303,2024-01-23,Candace Pierce,Veste,Vêtements,2,177.7,355.4,PayPal,New David
+304,2024-10-11,Abigail Wheeler,Jus de fruits,Alimentation,4,738.05,2952.2,Cryptomonnaie,Dylanstad
+305,2023-10-02,Sarah Davis,Casque audio,Électronique,2,1714.24,3428.48,Virement,East Monica
+306,2024-08-13,Kristina Thompson,Chaussures,Vêtements,2,1016.63,2033.26,Virement,Wilsonport
+307,2025-01-07,Michael Bridges,Ballon de foot,Sport,5,1721.65,8608.25,PayPal,Leslieview
+308,2025-01-24,Rachel Webb MD,Chaussures,Vêtements,6,295.6,1773.6,Carte bancaire,Johnborough
+309,2023-09-22,Anthony Jones,Vélo d'appartement,Sport,4,638.41,2553.64,Cryptomonnaie,Lake Susan
+310,2024-08-08,Debbie Myers,Montre connectée,Électronique,9,1681.58,15134.22,PayPal,Lake Charlene
+311,2023-06-06,Dana Taylor,Chocolat,Alimentation,4,1234.43,4937.72,Carte bancaire,Lake Kristenshire
+312,2024-06-11,Jody Coleman,Jean,Vêtements,6,1764.6,10587.6,Cryptomonnaie,South Samuelhaven
+313,2024-09-14,Christian Martinez,Biscuits,Alimentation,3,833.4,2500.2,Virement,East Kariland
+314,2025-01-27,Amy Bell,Thé,Alimentation,8,1391.11,11128.88,Carte bancaire,Port Guy
+315,2024-10-02,Jordan Bautista,Vélo d'appartement,Sport,9,114.17,1027.53,Cryptomonnaie,Lisaberg
+316,2023-04-24,Pam Wells,Jean,Vêtements,6,1897.85,11387.1,PayPal,South Taylor
+317,2023-09-19,Eric Mullen,Armoire,Mobilier,9,1654.42,14889.78,Virement,East James
+318,2023-10-21,Sarah Miles,Canapé,Mobilier,1,1648.0,1648.0,PayPal,New Christianburgh
+319,2024-05-26,Kristin Adams,Chaise,Mobilier,5,289.33,1446.65,Cryptomonnaie,Mitchellhaven
+320,2023-10-01,Lauren Gilmore,Table,Mobilier,5,444.63,2223.15,Espèces,West Bailey
+321,2024-03-14,Melissa Cummings,Vélo d'appartement,Sport,10,1649.73,16497.3,Carte bancaire,Farmerfort
+322,2024-01-15,Melinda Robinson,Ballon de foot,Sport,5,1637.77,8188.85,Virement,Port Elizabeth
+323,2025-03-14,Sarah Valentine,Lit,Mobilier,9,143.98,1295.82,Carte bancaire,New Sierra
+324,2024-02-02,Mike Garcia,Chaussures,Vêtements,3,749.89,2249.67,Cryptomonnaie,Santosside
+325,2024-07-02,Vanessa Petty,Tapis de yoga,Sport,7,1317.84,9224.88,Cryptomonnaie,New Grant
+326,2024-01-14,Yvette Wong,Thé,Alimentation,4,1802.21,7208.84,Carte bancaire,Stephenberg
+327,2023-04-22,Lisa Hughes,Ordinateur portable,Électronique,5,1680.61,8403.05,PayPal,South Samanthahaven
+328,2024-02-13,Mark Garcia,Jean,Vêtements,4,1977.06,7908.24,Virement,Lake Sergio
+329,2024-10-16,Deborah Johnston,Jean,Vêtements,7,29.28,204.96,Cryptomonnaie,Harrisonfurt
+330,2023-10-07,Mr. Michael Foster,Casque audio,Électronique,4,313.39,1253.56,Carte bancaire,Darlenemouth
+331,2023-10-25,Mitchell Wright,Table,Mobilier,4,187.47,749.88,Cryptomonnaie,Hannahville
+332,2023-09-10,Joshua Chavez,Tablette,Électronique,6,1133.73,6802.38,Espèces,Knightland
+333,2023-09-28,Dr. Victoria Cervantes,T-shirt,Vêtements,7,1763.4,12343.8,Virement,Hectorstad
+334,2024-09-13,Rachel Hines,Ordinateur portable,Électronique,1,1161.46,1161.46,Virement,Lake Lauren
+335,2023-04-05,David Rodriguez,Tapis de yoga,Sport,9,1925.79,17332.11,PayPal,Port Haydenville
+336,2024-01-03,Mary Munoz,Haltères,Sport,9,1329.22,11962.98,Virement,East Christopher
+337,2023-09-24,Nichole Cruz,Chocolat,Alimentation,9,1804.1,16236.9,Cryptomonnaie,Bethanychester
+338,2024-12-27,Richard Estes,Ordinateur portable,Électronique,4,1479.28,5917.12,Virement,Markmouth
+339,2023-12-08,Edward Robinson,Lit,Mobilier,1,1039.56,1039.56,PayPal,New Catherine
+340,2024-07-02,Jill Rivas,Haltères,Sport,4,365.73,1462.92,PayPal,Rhodesmouth
+341,2024-06-04,Christy Navarro,Thé,Alimentation,4,1166.39,4665.56,Virement,North Sandra
+342,2024-02-24,Eric Randolph,Thé,Alimentation,10,923.94,9239.4,PayPal,Robertburgh
+343,2023-03-30,Nicole Sullivan,Café,Alimentation,5,1649.15,8245.75,PayPal,Sarahtown
+344,2024-07-23,Gabrielle Wright,Armoire,Mobilier,4,182.42,729.68,Carte bancaire,West Michael
+345,2023-05-27,Cheryl Pruitt,Casque audio,Électronique,1,981.36,981.36,Virement,East Kevin
+346,2024-02-04,Thomas Lopez,Chocolat,Alimentation,9,568.22,5113.98,Carte bancaire,Adrianburgh
+347,2023-12-23,Matthew Fields,Ballon de foot,Sport,10,1886.95,18869.5,PayPal,North Kathleen
+348,2023-07-12,Scott Haley,Sweatshirt,Vêtements,3,517.76,1553.28,PayPal,Vegaview
+349,2024-10-08,Tracy Jones,Biscuits,Alimentation,5,663.76,3318.8,Carte bancaire,Angelaberg
+350,2023-08-04,Emily Reed,Ordinateur portable,Électronique,4,1371.31,5485.24,Carte bancaire,Port Jeffchester
+351,2023-06-16,Martha Strickland,Chaussures,Vêtements,4,1428.01,5712.04,PayPal,East Eileenchester
+352,2025-01-08,Andrew Johnson,Montre connectée,Électronique,5,1269.05,6345.25,PayPal,Tuckerton
+353,2023-09-10,Robert Bennett,Chaise,Mobilier,5,1394.3,6971.5,Cryptomonnaie,Lynchmouth
+354,2024-11-05,Hector Ward,Sweatshirt,Vêtements,3,1318.28,3954.84,Virement,West Victoria
+355,2023-12-28,Brandi Green,Sweatshirt,Vêtements,10,273.8,2738.0,PayPal,Schwartzmouth
+356,2024-11-20,Nicholas Gonzales,Ballon de foot,Sport,4,1472.52,5890.08,Virement,Samanthafort
+357,2024-08-27,David Lee,Chocolat,Alimentation,9,231.63,2084.67,Cryptomonnaie,Jamestown
+358,2024-05-14,Erik Butler,Ordinateur portable,Électronique,9,802.74,7224.66,Espèces,Michaelstad
+359,2024-06-04,David Duncan,Montre connectée,Électronique,10,1176.58,11765.8,Espèces,South Johnny
+360,2024-02-12,Jon Snyder,Montre connectée,Électronique,2,1156.63,2313.26,Espèces,Rossshire
+361,2023-04-23,Hailey Ayers,Tapis de yoga,Sport,3,619.92,1859.76,Carte bancaire,New Teresa
+362,2024-02-07,Cody Mcdonald,Casque audio,Électronique,7,1929.76,13508.32,Virement,New Debbiefort
+363,2025-02-18,Jennifer Dixon,Chaussures,Vêtements,1,1891.76,1891.76,Carte bancaire,Rileyville
+364,2023-08-09,Carly Schultz,Thé,Alimentation,4,1086.19,4344.76,Carte bancaire,Lukeshire
+365,2024-01-17,Steven Richards,Jean,Vêtements,5,1124.6,5623.0,Espèces,South Davidtown
+366,2023-07-27,Kevin Wilson,Tablette,Électronique,9,740.19,6661.71,Carte bancaire,Spenceberg
+367,2024-08-02,Albert Kemp,Chocolat,Alimentation,2,1574.59,3149.18,Cryptomonnaie,New Meganhaven
+368,2025-03-25,Jared Barron,Lit,Mobilier,10,1329.06,13290.6,Cryptomonnaie,West Cheyenneshire
+369,2024-10-11,Jennifer Williamson,Tablette,Électronique,7,12.66,88.62,PayPal,New Jennifer
+370,2024-11-01,Jacob White,Ballon de foot,Sport,6,846.39,5078.34,Espèces,Mercadoview
+371,2024-04-20,Elizabeth Carrillo,Table,Mobilier,6,1332.21,7993.26,Virement,Richardport
+372,2023-12-14,Joel Nelson,Montre connectée,Électronique,6,239.62,1437.72,Carte bancaire,Port Jennifer
+373,2024-02-29,Brian Martinez,Smartphone,Électronique,9,1268.4,11415.6,Virement,Port Stephanie
+374,2023-03-31,Matthew Howell,Jean,Vêtements,2,512.72,1025.44,Virement,Michaelborough
+375,2024-07-14,Anthony Walton,Chocolat,Alimentation,5,1099.36,5496.8,PayPal,North Kristiview
+376,2023-04-29,Tammy Porter,Veste,Vêtements,4,1381.84,5527.36,PayPal,East Felicia
+377,2023-07-20,Juan Williams,Ballon de foot,Sport,4,60.57,242.28,PayPal,North Johnhaven
+378,2023-04-20,Christopher Walsh,Chaussures,Vêtements,6,1492.03,8952.18,Carte bancaire,West Josephfurt
+379,2024-04-28,Leah Johnson,Casque audio,Électronique,5,1045.95,5229.75,Carte bancaire,North Barryshire
+380,2024-11-11,Chelsea Leonard,Casque audio,Électronique,4,1885.96,7543.84,Cryptomonnaie,Seanside
+381,2024-09-01,Robin Hall,Chaise,Mobilier,3,1205.9,3617.7,Carte bancaire,North Cherylmouth
+382,2025-02-01,Nicholas Suarez,Tablette,Électronique,1,1781.5,1781.5,Virement,Port Melissaborough
+383,2025-01-08,Monica Brown,Ordinateur portable,Électronique,3,163.43,490.29,Espèces,West Jeanneport
+384,2024-04-10,Daniel Thompson,Table,Mobilier,7,1047.34,7331.38,Espèces,Vargashaven
+385,2023-11-09,Rodney Scott,Raquette de tennis,Sport,7,1624.0,11368.0,Virement,Owenshaven
+386,2025-03-21,Michael Mcdonald,Chocolat,Alimentation,8,1508.53,12068.24,Espèces,Fowlermouth
+387,2024-03-28,Edward Scott,Table,Mobilier,4,1149.27,4597.08,Virement,Lake Robertberg
+388,2024-06-03,David Curry,Sweatshirt,Vêtements,8,289.35,2314.8,PayPal,Mcmahonhaven
+389,2024-08-07,Christina Day,Raquette de tennis,Sport,7,953.63,6675.41,Virement,New Dorothyton
+390,2024-10-13,Rebecca Harris,Chaise,Mobilier,1,744.01,744.01,Cryptomonnaie,Williamsbury
+391,2024-03-16,Amy Frost,Chaussures,Vêtements,1,97.24,97.24,PayPal,West Jerry
+392,2023-08-06,Dakota Perez,Tablette,Électronique,9,1521.34,13692.06,Carte bancaire,Evansberg
+393,2024-11-17,Johnny Garcia,Thé,Alimentation,9,1072.61,9653.49,Carte bancaire,Michaeltown
+394,2023-06-16,Laura Wright,Smartphone,Électronique,7,1794.95,12564.65,Cryptomonnaie,Adammouth
+395,2023-07-13,Casey Dixon,Tapis de yoga,Sport,7,843.11,5901.77,PayPal,Nelsonport
+396,2024-05-28,Shannon Gregory,Casque audio,Électronique,1,1961.49,1961.49,Carte bancaire,Rogersstad
+397,2023-04-26,Rebecca Donovan,Sweatshirt,Vêtements,6,509.91,3059.46,PayPal,Port Caitlyn
+398,2023-06-16,Melanie Kline,Table,Mobilier,4,5.94,23.76,PayPal,Jasmineport
+399,2025-03-16,David Clark,Biscuits,Alimentation,1,256.58,256.58,Espèces,New Morganshire
+400,2024-02-18,Mary Thomas,Armoire,Mobilier,10,1212.71,12127.1,Virement,Weberside
+401,2023-07-02,Sandra Wade,Casque audio,Électronique,8,1263.63,10109.04,PayPal,South Brandon
+402,2023-11-21,Lisa Lewis,Café,Alimentation,10,145.33,1453.3,Cryptomonnaie,Crystalborough
+403,2025-01-24,Margaret Bennett,Chocolat,Alimentation,3,1460.17,4380.51,Virement,East Sheilachester
+404,2024-12-25,Mark Knight,Tablette,Électronique,8,365.12,2920.96,PayPal,Lloydville
+405,2024-11-23,Lisa Burton,Thé,Alimentation,5,1043.86,5219.3,Virement,North Dana
+406,2024-07-11,Nicole Newton,Haltères,Sport,10,1903.85,19038.5,Espèces,Dawnton
+407,2023-08-28,Marc Serrano,Chocolat,Alimentation,7,1707.73,11954.11,Virement,Torresbury
+408,2024-11-04,Robert Tate,Biscuits,Alimentation,5,1072.7,5363.5,Cryptomonnaie,Snyderburgh
+409,2024-07-15,Edward George,Smartphone,Électronique,8,1195.44,9563.52,Virement,North Donnaborough
+410,2023-03-30,Justin Young DVM,Tablette,Électronique,5,1458.76,7293.8,Cryptomonnaie,West Dale
+411,2024-10-20,Melissa Clark,Haltères,Sport,8,276.69,2213.52,Cryptomonnaie,Christinastad
+412,2024-04-10,Bailey Jones,Smartphone,Électronique,7,1330.57,9313.99,Carte bancaire,Jacksonland
+413,2023-12-16,Lisa Gross,Thé,Alimentation,2,1152.54,2305.08,Virement,Longhaven
+414,2024-03-03,Susan Jarvis,T-shirt,Vêtements,9,214.41,1929.69,Carte bancaire,North Lisatown
+415,2024-09-18,Mary Reyes,Montre connectée,Électronique,6,298.05,1788.3,Espèces,Julieside
+416,2024-06-17,Laura Kirby,Biscuits,Alimentation,3,1936.22,5808.66,Cryptomonnaie,Brownview
+417,2024-11-14,Lance Ayers,Lit,Mobilier,5,372.13,1860.65,Cryptomonnaie,East Justin
+418,2024-11-26,Amy Cherry,Lit,Mobilier,8,198.33,1586.64,Cryptomonnaie,Kyleside
+419,2023-08-21,Chris Ellis,Armoire,Mobilier,4,180.9,723.6,PayPal,North Donnafurt
+420,2023-09-12,Christopher Simmons,Ballon de foot,Sport,5,1611.73,8058.65,Cryptomonnaie,Lake Lisa
+421,2023-05-24,Kathy Schultz,Veste,Vêtements,4,71.77,287.08,Carte bancaire,Wendybury
+422,2023-08-22,Kevin Davidson,Veste,Vêtements,4,1632.57,6530.28,Cryptomonnaie,Gregorystad
+423,2024-03-24,Caitlyn Krause,Sweatshirt,Vêtements,1,1560.39,1560.39,Carte bancaire,Sarahberg
+424,2024-02-07,Daniel Bell,Ballon de foot,Sport,7,707.88,4955.16,Carte bancaire,New Michelle
+425,2024-08-27,Amy Hill,Biscuits,Alimentation,4,692.89,2771.56,Carte bancaire,New Krista
+426,2024-08-19,Jonathan Stuart,Canapé,Mobilier,8,778.82,6230.56,Carte bancaire,Port Danielle
+427,2024-03-07,Mary Perkins,Raquette de tennis,Sport,8,1798.98,14391.84,PayPal,Port Erikaton
+428,2024-04-04,Christina Jordan,Ballon de foot,Sport,6,1382.22,8293.32,PayPal,Kaylaberg
+429,2023-05-04,Emily Mcdaniel,Vélo d'appartement,Sport,2,456.23,912.46,Espèces,South Chelseaborough
+430,2025-03-09,Jack Adams,Biscuits,Alimentation,5,1576.46,7882.3,Espèces,North Laurahaven
+431,2025-02-07,Samuel Taylor,Casque audio,Électronique,6,1509.22,9055.32,PayPal,New Lauren
+432,2023-12-08,Michelle Richardson,Smartphone,Électronique,1,1398.31,1398.31,Carte bancaire,Pearsonmouth
+433,2023-09-13,Kylie Moore,Jus de fruits,Alimentation,7,30.2,211.4,Virement,Baileytown
+434,2023-12-18,Joseph Powell,Raquette de tennis,Sport,8,913.86,7310.88,Cryptomonnaie,Charlesmouth
+435,2024-12-08,Steven Brewer Jr.,Table,Mobilier,8,1557.54,12460.32,Virement,South Shannonshire
+436,2023-09-12,Audrey Rogers,Vélo d'appartement,Sport,9,1537.42,13836.78,Virement,Taylorberg
+437,2024-02-20,Jacob Sims,Lit,Mobilier,5,1070.21,5351.05,Virement,South Richardstad
+438,2023-04-23,Christopher Richardson,Lit,Mobilier,2,1764.48,3528.96,Virement,Maldonadobury
+439,2025-03-22,Jeffery Nash,Tapis de yoga,Sport,2,567.73,1135.46,Virement,Staffordside
+440,2024-02-27,Megan Waller,Jus de fruits,Alimentation,8,363.25,2906.0,Carte bancaire,Joshuabury
+441,2024-10-17,Dr. Ryan Mcdowell DDS,Veste,Vêtements,6,837.81,5026.86,Virement,West Sandrastad
+442,2023-07-28,Bianca Perry,T-shirt,Vêtements,2,1947.14,3894.28,Virement,West Kimberly
+443,2024-09-02,Joe Keith,Table,Mobilier,6,1851.44,11108.64,PayPal,South Charlesburgh
+444,2025-02-12,Kathy Contreras,Raquette de tennis,Sport,7,1354.15,9479.05,Espèces,Lake Ashleyland
+445,2023-11-09,Cheryl Walker,Haltères,Sport,5,244.18,1220.9,PayPal,North Steven
+446,2023-04-17,Jacqueline Baker,Veste,Vêtements,1,1540.09,1540.09,PayPal,Tuckerhaven
+447,2023-12-12,Jason Parker,Haltères,Sport,2,1055.83,2111.66,Carte bancaire,Markbury
+448,2023-08-19,Samuel Hamilton,Table,Mobilier,5,51.76,258.8,Carte bancaire,Christinaberg
+449,2024-04-08,Zachary Hess,Raquette de tennis,Sport,5,1280.01,6400.05,Cryptomonnaie,Cardenastown
+450,2024-10-06,Cynthia Hernandez,Tapis de yoga,Sport,7,1973.69,13815.83,PayPal,West Matthew
+451,2024-11-11,April Reyes,Ordinateur portable,Électronique,10,956.24,9562.4,Carte bancaire,West Regina
+452,2025-01-21,Yvonne Chavez,Café,Alimentation,5,1077.05,5385.25,Virement,Monteschester
+453,2023-08-31,Patricia Rodriguez,Casque audio,Électronique,10,1881.93,18819.3,Espèces,Calvinton
+454,2024-12-28,Chad Hill,Smartphone,Électronique,5,1933.47,9667.35,Virement,West Shawn
+455,2024-07-30,Matthew Martinez,Montre connectée,Électronique,6,595.1,3570.6,Cryptomonnaie,Whiteland
+456,2023-04-05,Lori Bell,Table,Mobilier,3,1441.25,4323.75,Espèces,Lake Amandaburgh
+457,2025-02-21,Alyssa Thomas,Montre connectée,Électronique,9,1524.89,13724.01,PayPal,West Philip
+458,2024-05-22,Teresa Knight,Armoire,Mobilier,1,1244.01,1244.01,Virement,New Traci
+459,2024-02-26,Kathleen Leblanc,Biscuits,Alimentation,4,85.3,341.2,Virement,Millsview
+460,2024-07-19,Seth Daniels,T-shirt,Vêtements,9,913.18,8218.62,Cryptomonnaie,Donnahaven
+461,2023-11-12,Andrew Davis,Jean,Vêtements,7,1028.03,7196.21,Cryptomonnaie,Port Kelly
+462,2023-12-06,Christine Sloan,Chaise,Mobilier,1,995.3,995.3,Virement,Johnshire
+463,2024-03-21,Jennifer Miles,Chocolat,Alimentation,7,721.29,5049.03,Carte bancaire,Rhodesbury
+464,2025-02-09,Daniel Garcia,Jus de fruits,Alimentation,10,1630.31,16303.1,Espèces,Priceland
+465,2025-03-24,Kayla Carroll,Chocolat,Alimentation,10,898.06,8980.6,Cryptomonnaie,Jacquelinehaven
+466,2023-09-18,Julia Hunt,Veste,Vêtements,8,352.27,2818.16,Virement,Hunterborough
+467,2024-08-14,Ronald Lee,Veste,Vêtements,1,791.0,791.0,PayPal,Pattersonmouth
+468,2023-04-23,Dr. Ruben Pope,Veste,Vêtements,10,1272.66,12726.6,Virement,Kathrynview
+469,2023-04-05,Megan Rose,Chocolat,Alimentation,7,537.39,3761.73,Carte bancaire,Shannonport
+470,2023-10-08,Jennifer Dixon,Haltères,Sport,1,796.39,796.39,Espèces,Jenniferfurt
+471,2023-10-15,Nicole Ayers,Smartphone,Électronique,5,1716.2,8581.0,Virement,Sharonbury
+472,2023-10-13,Kaitlyn Meyers,Vélo d'appartement,Sport,2,1781.47,3562.94,Cryptomonnaie,South Michael
+473,2024-03-08,Ariana Vasquez,Jus de fruits,Alimentation,7,341.62,2391.34,Espèces,Jermaineville
+474,2023-09-30,Theresa Jones,Casque audio,Électronique,6,1032.16,6192.96,Espèces,North Christopherland
+475,2024-09-24,Elizabeth Stephens,Table,Mobilier,1,1339.04,1339.04,Carte bancaire,Kellerhaven
+476,2023-11-06,Brianna Ramirez,Veste,Vêtements,5,1480.17,7400.85,Espèces,New Carolynhaven
+477,2023-05-30,Patricia Leonard,Casque audio,Électronique,9,663.58,5972.22,Carte bancaire,Adamside
+478,2023-07-05,Tyrone Williams,Smartphone,Électronique,9,232.41,2091.69,Espèces,Carolynmouth
+479,2024-02-15,Connie Reeves,Café,Alimentation,2,873.06,1746.12,Espèces,Port Debramouth
+480,2025-02-21,Cheryl Collins,Chaussures,Vêtements,5,150.3,751.5,Carte bancaire,Cynthiabury
+481,2024-05-04,Holly Ramos,T-shirt,Vêtements,8,671.68,5373.44,PayPal,Lake Catherine
+482,2024-06-17,Robin Johnson,Smartphone,Électronique,8,1861.42,14891.36,Virement,Hallbury
+483,2024-07-21,Stephanie Nichols,Chaise,Mobilier,1,925.16,925.16,PayPal,Port John
+484,2024-11-06,Erik Love,Armoire,Mobilier,6,1212.19,7273.14,Cryptomonnaie,Davidside
+485,2023-07-06,Linda Perez,Vélo d'appartement,Sport,6,1411.93,8471.58,PayPal,Port Brianna
+486,2023-09-01,Rachel Shaw,Jus de fruits,Alimentation,1,1988.81,1988.81,Carte bancaire,Gregoryburgh
+487,2024-05-10,Brandi Montes,Armoire,Mobilier,3,710.71,2132.13,Carte bancaire,West Stacyside
+488,2023-04-09,Craig Taylor,T-shirt,Vêtements,9,466.28,4196.52,Carte bancaire,Johnsonstad
+489,2024-09-08,Pamela Baxter,Ballon de foot,Sport,2,258.48,516.96,Espèces,Williamsshire
+490,2023-12-26,William Spencer,Biscuits,Alimentation,10,1401.46,14014.6,PayPal,Jonesmouth
+491,2023-07-08,Mark Adams,Haltères,Sport,4,1493.32,5973.28,Cryptomonnaie,Debraside
+492,2023-05-08,Wendy Torres,Jean,Vêtements,6,1315.24,7891.44,Virement,Joseland
+493,2023-10-25,Mary Fitzgerald,Veste,Vêtements,7,785.89,5501.23,Virement,Josephmouth
+494,2024-04-15,Janet Hopkins,Thé,Alimentation,5,1679.0,8395.0,Virement,Lake Paulaville
+495,2023-05-25,Amanda Gonzales,Table,Mobilier,1,1328.91,1328.91,PayPal,West Julie
+496,2024-10-15,Kevin Whitehead,Veste,Vêtements,7,594.87,4164.09,Cryptomonnaie,Rebeccaview
+497,2023-12-20,Megan Hebert,Vélo d'appartement,Sport,10,979.89,9798.9,Virement,North Kenneth
+498,2024-11-20,Anthony Hanson,Jus de fruits,Alimentation,8,944.1,7552.8,PayPal,Robertsville
+499,2024-10-18,Ronald Perry,Sweatshirt,Vêtements,1,805.35,805.35,PayPal,Lake Thomas
+500,2024-10-01,Allison Alexander,Jean,Vêtements,5,1440.33,7201.65,Espèces,Cristinamouth
+501,2024-03-13,Ashley Sullivan,Café,Alimentation,3,286.99,860.97,Carte bancaire,Clarkstad
+502,2025-02-19,Tara Francis,T-shirt,Vêtements,2,1043.49,2086.98,Virement,East Johnside
+503,2023-05-20,Micheal Wright,Chaussures,Vêtements,6,1538.98,9233.88,Cryptomonnaie,Jessicaport
+504,2024-07-25,Jon James,Chaussures,Vêtements,3,1040.97,3122.91,Espèces,New Vincentchester
+505,2023-04-30,Jared Stone,Café,Alimentation,10,160.02,1600.2,PayPal,East Leahfort
+506,2024-11-14,Aaron Pennington,Café,Alimentation,1,810.14,810.14,Carte bancaire,New Johnny
+507,2024-06-01,Brittany Hampton,Canapé,Mobilier,5,197.35,986.75,Carte bancaire,Taylorfurt
+508,2024-10-23,Amanda Hogan,Casque audio,Électronique,5,1323.27,6616.35,Carte bancaire,Richardfurt
+509,2024-02-23,Johnny Hill,Chaise,Mobilier,5,373.43,1867.15,Cryptomonnaie,Port Denisehaven
+510,2024-11-06,Stephen Perry,Vélo d'appartement,Sport,8,184.78,1478.24,Espèces,North Brandon
+511,2025-03-15,Courtney Roth,Casque audio,Électronique,9,632.86,5695.74,Espèces,Port Davidfort
+512,2023-06-21,Victoria Hicks,Ordinateur portable,Électronique,1,780.42,780.42,PayPal,Andremouth
+513,2023-06-23,Jessica Gilmore,Jean,Vêtements,1,736.59,736.59,PayPal,Amandaburgh
+514,2024-02-04,David Olsen,Sweatshirt,Vêtements,7,1216.18,8513.26,Cryptomonnaie,Burnsmouth
+515,2024-12-16,Tammy Berger,T-shirt,Vêtements,3,165.35,496.05,PayPal,Kaylafort
+516,2023-11-18,Dustin Lee,Ballon de foot,Sport,9,155.06,1395.54,Virement,North Brendanview
+517,2023-09-13,Thomas Lara,Sweatshirt,Vêtements,4,566.23,2264.92,Espèces,Grossberg
+518,2024-06-20,Vanessa Howe,Vélo d'appartement,Sport,5,290.27,1451.35,Cryptomonnaie,Scottchester
+519,2024-09-23,Timothy Johnson,Raquette de tennis,Sport,2,1550.21,3100.42,Espèces,West Leroyfurt
+520,2023-08-04,Robert Holt,Lit,Mobilier,6,1751.69,10510.14,Espèces,Davidshire
+521,2024-09-02,Monica Smith,Table,Mobilier,6,549.04,3294.24,Carte bancaire,Beverlymouth
+522,2024-06-28,Michelle Torres DVM,Ballon de foot,Sport,2,589.54,1179.08,Virement,Barrerachester
+523,2023-11-10,Kelly Morrison,Ballon de foot,Sport,7,1462.53,10237.71,Cryptomonnaie,Veronicahaven
+524,2024-01-18,Valerie Peterson,Thé,Alimentation,10,312.97,3129.7,Carte bancaire,Lake Julia
+525,2024-10-28,Elizabeth Olson,Jus de fruits,Alimentation,6,1151.58,6909.48,Cryptomonnaie,Waltersview
+526,2023-05-01,Julie Maldonado,Ordinateur portable,Électronique,4,464.94,1859.76,Virement,North Sherry
+527,2024-08-27,Jason James MD,Café,Alimentation,4,553.9,2215.6,Espèces,Donaldtown
+528,2024-11-07,Collin Evans,Armoire,Mobilier,3,1056.94,3170.82,Virement,Alyssatown
+529,2023-07-23,Ms. Cheryl Mathews,Ballon de foot,Sport,9,1842.38,16581.42,Carte bancaire,Knightmouth
+530,2023-12-01,Randy Ware,Raquette de tennis,Sport,7,96.41,674.87,Espèces,Erikaland
+531,2024-05-26,Gary Brown,Haltères,Sport,7,645.53,4518.71,Cryptomonnaie,Robertview
+532,2023-05-04,Jason Ortega,Thé,Alimentation,6,452.26,2713.56,PayPal,Lake Benjaminmouth
+533,2024-11-29,Jeremy Taylor,T-shirt,Vêtements,3,799.89,2399.67,PayPal,Thomasbury
+534,2023-10-17,Joseph Silva,Thé,Alimentation,3,1762.94,5288.82,Virement,Lake Timothy
+535,2024-03-25,Benjamin Smith,Veste,Vêtements,9,530.55,4774.95,Virement,Jasonside
+536,2024-10-10,Jill Pacheco,Smartphone,Électronique,3,1230.53,3691.59,PayPal,New Margaret
+537,2025-03-07,Richard Shaffer,Lit,Mobilier,1,201.66,201.66,Virement,Moorefort
+538,2023-12-26,William Morris,Jean,Vêtements,2,1180.32,2360.64,Cryptomonnaie,Michaelside
+539,2023-08-29,Elizabeth Horton,Lit,Mobilier,7,1298.16,9087.12,Virement,East Tonyaton
+540,2023-10-31,Terri Miller,Haltères,Sport,8,876.56,7012.48,Carte bancaire,West Crystal
+541,2024-07-02,Carol Martinez,Canapé,Mobilier,10,812.86,8128.6,Cryptomonnaie,Kochfort
+542,2023-09-21,Colleen Mcmahon,Montre connectée,Électronique,5,575.67,2878.35,Carte bancaire,Mcclurebury
+543,2023-08-06,Christopher Grimes,Table,Mobilier,4,614.99,2459.96,PayPal,New Tammyfort
+544,2024-12-31,Mark Delgado,Haltères,Sport,5,1934.68,9673.4,Espèces,Glennside
+545,2023-12-30,Charles Reyes,Casque audio,Électronique,2,288.38,576.76,Cryptomonnaie,Griffinmouth
+546,2023-10-06,Andrea Willis,Casque audio,Électronique,6,1157.24,6943.44,Virement,West Meghan
+547,2024-04-10,Sherry Rogers,Biscuits,Alimentation,5,986.12,4930.6,Espèces,East Sheila
+548,2023-08-01,Karen White,Chocolat,Alimentation,5,237.27,1186.35,Cryptomonnaie,West Steven
+549,2024-07-12,Aaron Nicholson,Café,Alimentation,9,82.69,744.21,PayPal,Port Anthony
+550,2024-07-02,Kelsey Terry,Ordinateur portable,Électronique,9,773.12,6958.08,Virement,East Kimberly
+551,2025-03-12,Maureen Flores,Canapé,Mobilier,10,812.41,8124.1,Espèces,West Maureentown
+552,2023-05-25,Scott Wagner,Raquette de tennis,Sport,1,1568.28,1568.28,Espèces,East Christopher
+553,2023-11-17,Todd Tate,Casque audio,Électronique,8,1346.67,10773.36,PayPal,West Deborahport
+554,2024-07-20,Dana Freeman,Vélo d'appartement,Sport,3,495.09,1485.27,Cryptomonnaie,West Traci
+555,2024-08-30,John Bowers,Biscuits,Alimentation,10,1268.01,12680.1,PayPal,Martinezmouth
+556,2024-05-20,Timothy Sampson,Table,Mobilier,6,377.66,2265.96,Virement,Port Samantha
+557,2024-02-04,Sheena Johnson,Chocolat,Alimentation,7,706.44,4945.08,Espèces,Lake Michael
+558,2023-12-22,Daniel Moore,Sweatshirt,Vêtements,7,282.84,1979.88,Carte bancaire,Lake Alexandrastad
+559,2025-01-04,Linda Owen,Raquette de tennis,Sport,1,1415.98,1415.98,Carte bancaire,Garyhaven
+560,2025-03-21,Ethan Cardenas,Ballon de foot,Sport,4,1789.56,7158.24,Virement,South Robert
+561,2023-08-06,Joshua Gonzales,Café,Alimentation,1,1726.39,1726.39,Virement,Josephmouth
+562,2024-09-24,Travis Gray,Chaussures,Vêtements,2,849.69,1699.38,Virement,Jamesberg
+563,2024-11-18,Mrs. Mary Olson,Jean,Vêtements,2,616.51,1233.02,PayPal,East William
+564,2024-09-14,Amanda Baker,Lit,Mobilier,1,1864.63,1864.63,Carte bancaire,New Jessicafurt
+565,2024-02-03,James Lynn,Montre connectée,Électronique,5,1127.91,5639.55,Cryptomonnaie,North Dianeton
+566,2023-05-17,Sharon Perez,Chaussures,Vêtements,4,459.14,1836.56,PayPal,Gabrielabury
+567,2024-10-28,Jeffery Boyle,Armoire,Mobilier,1,1424.27,1424.27,Cryptomonnaie,Port Andrew
+568,2023-12-17,Kimberly Cook,Montre connectée,Électronique,6,136.94,821.64,Virement,Clarkbury
+569,2023-06-09,Jimmy Watkins,Café,Alimentation,10,1601.83,16018.3,Carte bancaire,New Alexander
+570,2024-11-15,Christian Williams,Ordinateur portable,Électronique,2,1570.65,3141.3,Carte bancaire,Miguelport
+571,2023-05-24,Summer Allen,Biscuits,Alimentation,5,1451.83,7259.15,Carte bancaire,Rachelborough
+572,2024-01-05,Devin Riley,Chocolat,Alimentation,6,1469.55,8817.3,Virement,Kristyfort
+573,2024-12-13,Gregory Levine,Jus de fruits,Alimentation,5,1318.76,6593.8,Carte bancaire,North Joyside
+574,2024-11-15,Ronald Fowler,Jus de fruits,Alimentation,8,773.76,6190.08,Cryptomonnaie,Lake Stuartland
+575,2023-11-03,Susan Mathis,Casque audio,Électronique,8,531.49,4251.92,Espèces,South Albert
+576,2024-04-14,Heather Navarro,Veste,Vêtements,6,333.27,1999.62,Virement,New Jackie
+577,2023-12-04,David Larsen,Armoire,Mobilier,4,1334.59,5338.36,Cryptomonnaie,Nicoleton
+578,2024-02-11,Timothy Montoya,Canapé,Mobilier,5,1519.13,7595.65,PayPal,East Tonya
+579,2024-01-06,Patricia Kelly,Café,Alimentation,1,270.87,270.87,PayPal,Christophertown
+580,2023-06-22,Sherry Moreno,Veste,Vêtements,8,1318.87,10550.96,Virement,Nicholastown
+581,2024-06-09,Sarah Johnson,Casque audio,Électronique,8,1623.0,12984.0,Carte bancaire,Lindseyport
+582,2023-08-05,Jeremy Bowman,Chocolat,Alimentation,8,528.09,4224.72,Cryptomonnaie,East Alexandertown
+583,2024-07-30,Michael Hart,Thé,Alimentation,8,649.92,5199.36,Cryptomonnaie,North Edwardton
+584,2023-08-24,Kimberly Taylor,Veste,Vêtements,3,1851.09,5553.27,Cryptomonnaie,New Blakeshire
+585,2023-07-18,Jessica Brooks,T-shirt,Vêtements,6,484.2,2905.2,Carte bancaire,Lake Brenda
+586,2023-11-12,Tyler Owens,Smartphone,Électronique,4,256.95,1027.8,Carte bancaire,North Stephanietown
+587,2024-05-21,Darlene Martin,Veste,Vêtements,8,1316.06,10528.48,Espèces,Brewerland
+588,2024-01-23,Jamie Jenkins,Chaise,Mobilier,6,1037.76,6226.56,PayPal,Lake Vanessa
+589,2023-09-02,Jasmin Garrett,Veste,Vêtements,9,491.93,4427.37,Cryptomonnaie,South Tyler
+590,2024-12-22,Amanda Small,Ordinateur portable,Électronique,7,636.06,4452.42,Cryptomonnaie,Fishermouth
+591,2023-09-10,Daniel Hamilton,Tablette,Électronique,4,1346.13,5384.52,PayPal,New Kellyberg
+592,2023-07-04,Victoria Rogers,Haltères,Sport,10,1797.33,17973.3,Carte bancaire,New Angelaton
+593,2024-02-29,Keith Young,Veste,Vêtements,1,1583.41,1583.41,Carte bancaire,Lucasview
+594,2025-01-09,Dawn Miller,Ballon de foot,Sport,5,756.49,3782.45,PayPal,East Edwardport
+595,2024-04-25,Kathryn Jenkins,Jean,Vêtements,7,569.75,3988.25,Carte bancaire,Stantonton
+596,2023-10-15,Sarah Hoffman,Chocolat,Alimentation,2,1178.68,2357.36,Carte bancaire,New Zacharyside
+597,2024-10-17,Thomas Cohen,Canapé,Mobilier,3,918.77,2756.31,Cryptomonnaie,East Jorge
+598,2023-09-05,Melissa Mcintyre,Smartphone,Électronique,8,1086.36,8690.88,Cryptomonnaie,Briggston
+599,2023-04-30,Vanessa Russell,Casque audio,Électronique,2,551.56,1103.12,Cryptomonnaie,Williamschester
+600,2024-12-18,Rachel Ortega,Chaussures,Vêtements,1,1074.97,1074.97,Espèces,Haynesside
+601,2023-04-09,Meghan Martinez,Tablette,Électronique,7,751.81,5262.67,PayPal,New Shannon
+602,2023-04-08,Christopher Franco,Café,Alimentation,2,1004.51,2009.02,PayPal,Port Andrewfurt
+603,2024-04-06,Amy Hernandez,Café,Alimentation,2,871.91,1743.82,Carte bancaire,South Katherine
+604,2024-07-12,Jonathon Fernandez DVM,Jus de fruits,Alimentation,1,993.58,993.58,Espèces,Brooksmouth
+605,2023-08-28,Tammy Rodriguez,Veste,Vêtements,9,566.7,5100.3,Carte bancaire,West Stevenville
+606,2024-12-22,Robert Morrison,Tablette,Électronique,7,530.19,3711.33,Virement,Lake Charlesview
+607,2024-05-08,Joshua Copeland,Tablette,Électronique,2,1053.36,2106.72,Carte bancaire,New Anthony
+608,2023-05-22,Brian Hill,Armoire,Mobilier,6,1769.7,10618.2,Cryptomonnaie,Kellytown
+609,2024-07-23,Gregory Davis,Ordinateur portable,Électronique,5,758.52,3792.6,Carte bancaire,Catherinestad
+610,2024-03-26,Ryan Clark,Chaise,Mobilier,5,278.85,1394.25,Virement,South Janetside
+611,2024-04-02,Sierra Higgins,Jean,Vêtements,4,1128.25,4513.0,Espèces,Harringtonburgh
+612,2024-10-29,Timothy Patel,Vélo d'appartement,Sport,4,1151.6,4606.4,Virement,Christianmouth
+613,2023-09-12,Connor Matthews,Ordinateur portable,Électronique,3,145.62,436.86,Carte bancaire,North Ashleyview
+614,2024-10-24,Anthony Petersen,Thé,Alimentation,6,255.21,1531.26,Virement,Michaelburgh
+615,2024-09-17,Destiny Webb,Tapis de yoga,Sport,6,62.32,373.92,Virement,Nicholasfort
+616,2024-06-09,Jermaine Hughes,Chocolat,Alimentation,7,1274.04,8918.28,Cryptomonnaie,Thomasport
+617,2023-06-09,Ryan Scott,Raquette de tennis,Sport,6,538.93,3233.58,PayPal,Hudsonstad
+618,2024-08-30,Catherine Cisneros,Canapé,Mobilier,2,801.6,1603.2,Espèces,Norrisville
+619,2023-04-14,Gina Hodges,Smartphone,Électronique,5,263.71,1318.55,PayPal,Christopherborough
+620,2024-11-18,Judith Vargas,T-shirt,Vêtements,5,663.15,3315.75,Virement,West Zacharymouth
+621,2024-10-01,Natalie Powell,Thé,Alimentation,6,395.96,2375.76,Carte bancaire,North Nicoleburgh
+622,2024-01-09,Michael Cunningham,Smartphone,Électronique,3,996.68,2990.04,Virement,South Edward
+623,2024-09-18,Kelsey Day,Armoire,Mobilier,6,1426.2,8557.2,Cryptomonnaie,New Joshuaborough
+624,2024-09-25,Anthony Fowler,Tapis de yoga,Sport,3,806.71,2420.13,Espèces,Lake Charles
+625,2023-07-29,Angel Wells,Jus de fruits,Alimentation,9,1600.18,14401.62,Cryptomonnaie,Nicoleport
+626,2025-01-03,Wendy Parker,Casque audio,Électronique,10,740.56,7405.6,Virement,Kevinmouth
+627,2024-11-26,Mary Gomez,Veste,Vêtements,7,129.7,907.9,PayPal,Tiffanyberg
+628,2023-07-20,Dennis Rivera,Jean,Vêtements,4,1506.93,6027.72,PayPal,North Michelle
+629,2023-10-14,Christopher Khan,Casque audio,Électronique,9,274.59,2471.31,Virement,Choiburgh
+630,2025-03-07,Ashley Lloyd,Smartphone,Électronique,4,1371.08,5484.32,Virement,New Cathy
+631,2024-06-18,Randall Chandler,Biscuits,Alimentation,4,915.88,3663.52,Virement,North Juanland
+632,2023-08-27,Sarah Cochran,Montre connectée,Électronique,5,678.24,3391.2,PayPal,Johnport
+633,2024-10-17,Kristina Kaufman,Canapé,Mobilier,2,1828.74,3657.48,Espèces,South Deborah
+634,2023-08-13,Kristine Mitchell,Jean,Vêtements,7,1644.37,11510.59,Espèces,South Elizabethville
+635,2024-07-01,Teresa Copeland,Jean,Vêtements,6,1691.18,10147.08,Cryptomonnaie,Markside
+636,2023-08-27,Garrett Hartman,Jean,Vêtements,8,1708.39,13667.12,Cryptomonnaie,Lukebury
+637,2024-11-29,Diana Farrell,Café,Alimentation,3,1147.51,3442.53,Carte bancaire,South Stephanieton
+638,2024-08-29,Amanda Riley,Chaise,Mobilier,4,1494.34,5977.36,Carte bancaire,Hendricksburgh
+639,2024-11-23,Anna Parsons,Table,Mobilier,4,1174.94,4699.76,Carte bancaire,Benjaminhaven
+640,2024-05-16,Tammy Ramirez,Vélo d'appartement,Sport,10,1431.83,14318.3,Cryptomonnaie,Port William
+641,2025-01-14,Stephanie King,Ballon de foot,Sport,2,1802.08,3604.16,PayPal,North Keithchester
+642,2023-06-14,Dr. Amy Howard,Café,Alimentation,9,1069.38,9624.42,Espèces,Roberthaven
+643,2023-12-18,Kristi Jarvis,Casque audio,Électronique,1,1795.88,1795.88,Virement,South Joshuafort
+644,2024-06-01,Donna Ortiz,Chaussures,Vêtements,8,887.09,7096.72,Virement,Lake Kevin
+645,2023-10-08,Suzanne Brooks,Thé,Alimentation,6,1995.42,11972.52,Cryptomonnaie,Millerport
+646,2024-01-03,Kathryn Pearson,Veste,Vêtements,9,1662.6,14963.4,Cryptomonnaie,West Adambury
+647,2024-05-02,Dustin Nelson,Raquette de tennis,Sport,10,1871.72,18717.2,Espèces,Port Mary
+648,2024-02-23,Christopher Nelson MD,T-shirt,Vêtements,9,25.01,225.09,Virement,Lake Timothy
+649,2024-06-11,Chase Norman,Haltères,Sport,10,1889.14,18891.4,Virement,North Jerry
+650,2024-06-26,James Fowler,Raquette de tennis,Sport,8,857.61,6860.88,Virement,West Russell
+651,2025-01-21,Christopher Joyce,Jus de fruits,Alimentation,6,1291.36,7748.16,Virement,New Mariaborough
+652,2024-05-02,Louis Schneider,Biscuits,Alimentation,10,1006.46,10064.6,Espèces,East Patrick
+653,2024-05-29,Andrew Hamilton,Café,Alimentation,4,1167.33,4669.32,PayPal,Melindastad
+654,2023-09-22,Lisa Juarez,Ballon de foot,Sport,1,1127.83,1127.83,Virement,West Chase
+655,2024-12-16,John Anderson,Chocolat,Alimentation,2,1271.24,2542.48,Carte bancaire,Romerochester
+656,2025-03-01,Dwayne Casey,Jean,Vêtements,7,784.62,5492.34,Espèces,Port Adrianmouth
+657,2023-04-25,Kevin Harris,Raquette de tennis,Sport,8,237.11,1896.88,PayPal,West Sarahview
+658,2025-02-22,Daryl Adams,Thé,Alimentation,3,133.02,399.06,Cryptomonnaie,New James
+659,2024-03-19,James Thomas,Ordinateur portable,Électronique,7,1362.56,9537.92,PayPal,Hilltown
+660,2024-02-20,Mindy Waters,Thé,Alimentation,1,919.76,919.76,Espèces,South Jennifer
+661,2024-09-18,Drew Finley,Café,Alimentation,2,1675.03,3350.06,PayPal,New Alexander
+662,2024-07-16,Tyler Wilkins,Chaussures,Vêtements,5,334.28,1671.4,PayPal,Andrewmouth
+663,2023-08-24,Nathan Powell,Casque audio,Électronique,10,1271.71,12717.1,PayPal,Rowlandside
+664,2023-04-16,Joshua Robinson,Thé,Alimentation,10,1926.06,19260.6,Espèces,Edwardbury
+665,2024-09-21,Ethan Johnson,Casque audio,Électronique,7,1342.32,9396.24,Espèces,Smithmouth
+666,2024-03-23,David Vargas,Vélo d'appartement,Sport,3,1586.09,4758.27,Cryptomonnaie,West Brandon
+667,2023-12-29,Amy Williams,Jean,Vêtements,1,364.87,364.87,Carte bancaire,South Tashaville
+668,2024-07-15,Lisa Jones,Lit,Mobilier,5,1737.84,8689.2,Cryptomonnaie,North Erica
+669,2024-02-12,Paula Gibson,Chaussures,Vêtements,2,1487.74,2975.48,PayPal,East Davidfort
+670,2024-03-02,Amber Trevino,Armoire,Mobilier,6,1380.53,8283.18,Virement,West Tammy
+671,2024-05-17,Michael Montgomery,Table,Mobilier,10,1183.19,11831.9,PayPal,Ronaldstad
+672,2024-09-22,Margaret Heath DVM,Raquette de tennis,Sport,3,409.76,1229.28,PayPal,East Crystal
+673,2024-08-01,Melissa Thomas MD,Haltères,Sport,2,1189.42,2378.84,Virement,Meyersside
+674,2023-10-14,Lindsey Leblanc,Canapé,Mobilier,10,1328.55,13285.5,PayPal,West William
+675,2024-09-24,Heather Gray,Jus de fruits,Alimentation,7,380.7,2664.9,Virement,East Larryfurt
+676,2023-06-20,Denise Carroll,Jus de fruits,Alimentation,1,1817.75,1817.75,Espèces,Lake Bridgetmouth
+677,2023-03-28,Melinda Paul,Table,Mobilier,6,1802.87,10817.22,PayPal,New Wendyside
+678,2024-09-29,Edward Hanna,Tablette,Électronique,7,1120.83,7845.81,PayPal,East Lauren
+679,2023-05-15,Valerie Garcia,Ordinateur portable,Électronique,2,1268.48,2536.96,Cryptomonnaie,Deniseborough
+680,2023-06-17,Kristina Davis,Canapé,Mobilier,5,1167.29,5836.45,Carte bancaire,Smithview
+681,2024-06-11,Valerie Moon,Montre connectée,Électronique,1,491.74,491.74,Carte bancaire,Cynthiaburgh
+682,2023-11-20,Kimberly Wilson,T-shirt,Vêtements,4,1236.27,4945.08,PayPal,New Dannymouth
+683,2023-07-19,Rebecca Walker,Montre connectée,Électronique,9,1878.04,16902.36,PayPal,East Kristin
+684,2024-11-06,Jacqueline Rodriguez,Chocolat,Alimentation,2,1561.85,3123.7,Carte bancaire,North Marchaven
+685,2023-06-29,Lucas Lewis,Armoire,Mobilier,8,1786.78,14294.24,Virement,Jacquelinetown
+686,2024-11-20,Mark Powers,Tablette,Électronique,1,1706.67,1706.67,Cryptomonnaie,Sherryview
+687,2024-03-26,Paul Evans,Raquette de tennis,Sport,2,1327.24,2654.48,Espèces,East Charles
+688,2024-01-06,Christine Stevenson,Chaise,Mobilier,2,1626.68,3253.36,PayPal,Pattersonburgh
+689,2024-06-29,Lisa Thomas,Tablette,Électronique,9,1269.19,11422.71,Cryptomonnaie,Basstown
+690,2023-05-06,Jennifer Johnson,T-shirt,Vêtements,2,1116.66,2233.32,Espèces,North Erica
+691,2024-10-28,Stephanie Miller,Armoire,Mobilier,6,1479.65,8877.9,Virement,Lake Jeremyborough
+692,2024-01-09,Alfred Wolfe,Sweatshirt,Vêtements,8,390.76,3126.08,Espèces,Lake Jacobstad
+693,2024-11-11,Chad Rich,Biscuits,Alimentation,4,1746.48,6985.92,Cryptomonnaie,North Jenniferton
+694,2024-11-03,Gary Brown,Veste,Vêtements,7,303.03,2121.21,PayPal,Evansmouth
+695,2024-06-06,Taylor Conrad,Sweatshirt,Vêtements,6,1558.99,9353.94,Espèces,Lake Jamiefort
+696,2024-03-02,Robert Wood,Café,Alimentation,5,890.64,4453.2,Carte bancaire,Barrfurt
+697,2024-08-07,Elizabeth Morgan,Café,Alimentation,4,69.56,278.24,PayPal,Lake Jacobmouth
+698,2023-05-26,Edwin Hood,Haltères,Sport,1,795.77,795.77,Virement,Lake Travisberg
+699,2024-01-30,Jamie Clay,Thé,Alimentation,2,1986.99,3973.98,Cryptomonnaie,Port Colinland
+700,2024-09-24,Lori Franklin,Chocolat,Alimentation,10,392.03,3920.3,Virement,South Johnstad
+701,2024-07-14,Colleen Perez,Chocolat,Alimentation,8,106.7,853.6,PayPal,New Rachelshire
+702,2023-10-22,Zachary Frost,Montre connectée,Électronique,7,453.78,3176.46,Cryptomonnaie,Gonzalezstad
+703,2023-04-29,Timothy Cabrera,Ordinateur portable,Électronique,5,54.58,272.9,Cryptomonnaie,Port Kaylee
+704,2024-11-04,Larry Ingram,Vélo d'appartement,Sport,6,525.9,3155.4,Cryptomonnaie,Dawnbury
+705,2023-06-25,Katherine Davis,Canapé,Mobilier,5,1156.63,5783.15,PayPal,Scottmouth
+706,2024-11-20,Christopher Kennedy,Café,Alimentation,8,1886.96,15095.68,Carte bancaire,Roachshire
+707,2024-10-02,Alexandria Meadows,Montre connectée,Électronique,9,478.96,4310.64,Virement,Starkton
+708,2024-11-28,Kathy Harrison,Biscuits,Alimentation,1,633.83,633.83,Carte bancaire,Jacobmouth
+709,2024-11-24,Patricia Ray,Haltères,Sport,6,15.41,92.46,Cryptomonnaie,North Mariaside
+710,2024-08-24,Jerry Cannon,Thé,Alimentation,10,1165.16,11651.6,Espèces,Lake Luke
+711,2023-08-04,John Chen,Veste,Vêtements,5,1165.78,5828.9,Carte bancaire,Caitlynview
+712,2024-04-10,Gregory Miller,Armoire,Mobilier,8,211.95,1695.6,Cryptomonnaie,New Veronicatown
+713,2024-03-06,Thomas Manning,Tablette,Électronique,10,353.51,3535.1,Espèces,Gregoryland
+714,2023-09-14,Victor Sanchez,Raquette de tennis,Sport,8,220.55,1764.4,PayPal,Lake Johnbury
+715,2023-11-19,April Lee,Canapé,Mobilier,2,1249.65,2499.3,Cryptomonnaie,Traceyburgh
+716,2025-01-31,Gina Keller,Thé,Alimentation,5,187.16,935.8,Cryptomonnaie,Bradshawfort
+717,2024-08-04,Alexis Reed,Biscuits,Alimentation,10,379.09,3790.9,Virement,East Janet
+718,2024-08-29,Rachel Tucker,Tapis de yoga,Sport,10,1628.39,16283.9,Cryptomonnaie,West Douglas
+719,2024-08-29,Tiffany Shaffer,Raquette de tennis,Sport,1,1798.64,1798.64,PayPal,Christopherhaven
+720,2024-09-01,Ashley Walker,Casque audio,Électronique,3,388.85,1166.55,Espèces,Goldenfort
+721,2024-05-26,James White,Haltères,Sport,7,1035.05,7245.35,Carte bancaire,Ericmouth
+722,2024-11-20,Sheila Williams,Raquette de tennis,Sport,1,1290.99,1290.99,Carte bancaire,New Patrick
+723,2024-05-20,Richard Good,Smartphone,Électronique,10,1292.76,12927.6,PayPal,Brittanyberg
+724,2023-04-13,Douglas Simpson,T-shirt,Vêtements,4,113.02,452.08,PayPal,Royhaven
+725,2023-07-20,Mark Caldwell,Ballon de foot,Sport,6,1324.62,7947.72,PayPal,Harrisstad
+726,2023-10-09,Joseph Hoover,Casque audio,Électronique,6,809.41,4856.46,PayPal,Lake Kristopher
+727,2023-08-18,Julia Cruz,Canapé,Mobilier,5,722.12,3610.6,PayPal,Edwardton
+728,2024-09-10,David Cole,Vélo d'appartement,Sport,7,192.37,1346.59,PayPal,New Maxwellborough
+729,2024-10-30,Patricia Ford,Canapé,Mobilier,5,1183.44,5917.2,Espèces,Port Jessica
+730,2023-08-06,Micheal West,Lit,Mobilier,5,1019.92,5099.6,Espèces,West Rhondaborough
+731,2023-10-20,Justin Smith,Table,Mobilier,9,1177.97,10601.73,PayPal,South Marissa
+732,2023-06-20,Robin Hopkins,Ordinateur portable,Électronique,7,921.35,6449.45,Carte bancaire,Port Carlland
+733,2024-05-04,Christy Hernandez,Ballon de foot,Sport,1,1073.69,1073.69,Carte bancaire,New Cherylfurt
+734,2023-04-29,Christopher Allen,Sweatshirt,Vêtements,5,1868.54,9342.7,Carte bancaire,Lake Tammybury
+735,2024-06-01,Diane Hammond,Sweatshirt,Vêtements,1,1674.86,1674.86,PayPal,New Sandra
+736,2024-05-12,Austin Price,Chocolat,Alimentation,5,193.67,968.35,Virement,East Joshuaberg
+737,2023-04-09,Jose Silva,Ballon de foot,Sport,7,1653.8,11576.6,PayPal,New Justinborough
+738,2023-07-06,Mary Tran,Table,Mobilier,6,535.77,3214.62,Cryptomonnaie,Kimborough
+739,2025-02-28,Tricia Vega,Chaussures,Vêtements,5,533.34,2666.7,Cryptomonnaie,Robertville
+740,2024-03-31,Priscilla Perry,Chaussures,Vêtements,3,620.94,1862.82,PayPal,Ariasside
+741,2024-10-29,Sarah Dickerson,Chaussures,Vêtements,1,1415.39,1415.39,Carte bancaire,Ellisonhaven
+742,2024-01-19,Kathy Sullivan,Biscuits,Alimentation,8,1032.9,8263.2,Carte bancaire,New Derek
+743,2025-02-09,Ricardo Cook,Lit,Mobilier,10,1614.53,16145.3,Espèces,Houseshire
+744,2024-01-30,Michael Lester,Thé,Alimentation,9,631.04,5679.36,Espèces,Port Diane
+745,2024-03-03,Roberta Walter,Chocolat,Alimentation,3,1788.62,5365.86,PayPal,Ellisberg
+746,2024-04-17,Julie Brown,Armoire,Mobilier,5,182.97,914.85,Espèces,Olivialand
+747,2024-07-20,Mario Ward,T-shirt,Vêtements,5,871.97,4359.85,Cryptomonnaie,North Reneeville
+748,2025-01-01,Brett Thomas,Biscuits,Alimentation,1,1721.28,1721.28,Espèces,Lake Michaelchester
+749,2023-06-21,Stephanie Miller,Jean,Vêtements,4,536.86,2147.44,PayPal,Hoganberg
+750,2024-11-29,Deborah Schmitt,Chocolat,Alimentation,9,778.13,7003.17,Virement,Frankport
+751,2024-03-11,Katelyn Lewis,Jean,Vêtements,4,934.25,3737.0,Espèces,Williamstad
+752,2024-06-01,Joshua Bryant,Haltères,Sport,5,332.15,1660.75,PayPal,Jamieberg
+753,2023-08-17,Kendra Smith,Table,Mobilier,6,1791.33,10747.98,PayPal,Ninachester
+754,2023-12-17,Tanya Kramer,Casque audio,Électronique,9,1955.82,17602.38,Virement,Nolanside
+755,2023-10-28,Stefanie Beltran,Café,Alimentation,7,531.84,3722.88,PayPal,North Allisonland
+756,2023-05-27,Dustin Lindsey,Tapis de yoga,Sport,5,1020.51,5102.55,Cryptomonnaie,Jacquelinestad
+757,2024-07-02,Becky Thompson,Ordinateur portable,Électronique,10,1952.41,19524.1,Cryptomonnaie,Robertbury
+758,2024-03-17,Thomas Dalton,Veste,Vêtements,1,94.3,94.3,Carte bancaire,East Kimberlyport
+759,2023-10-09,Danny Bush,Chaise,Mobilier,6,361.29,2167.74,Cryptomonnaie,Robertshire
+760,2023-09-28,Colin Dillon,Smartphone,Électronique,3,718.02,2154.06,Espèces,South Angelafurt
+761,2023-09-09,Christopher Davis,Canapé,Mobilier,2,1868.33,3736.66,Espèces,South Steveport
+762,2023-07-01,Kayla Spencer,Chocolat,Alimentation,6,1487.63,8925.78,PayPal,New Jacobville
+763,2024-01-01,Charles Burke,Veste,Vêtements,6,10.97,65.82,Carte bancaire,East Sharonton
+764,2023-08-10,Linda Moore,Veste,Vêtements,4,1841.86,7367.44,Carte bancaire,North Amanda
+765,2024-12-05,Mr. Noah Rodriguez,Jean,Vêtements,1,1371.64,1371.64,Carte bancaire,New Gabrielle
+766,2023-05-09,Kimberly Klein,Chaise,Mobilier,9,78.78,709.02,Espèces,New Carolfurt
+767,2023-04-23,Jody Mcguire,Lit,Mobilier,5,659.66,3298.3,PayPal,Andersonside
+768,2024-01-08,Olivia Montoya,Lit,Mobilier,3,984.36,2953.08,PayPal,Rogerhaven
+769,2024-10-05,Dr. Shelley Lane PhD,Canapé,Mobilier,5,1318.53,6592.65,Cryptomonnaie,New Rebeccachester
+770,2024-11-10,Mr. Timothy Giles,T-shirt,Vêtements,9,650.85,5857.65,Virement,Lake James
+771,2023-07-06,Calvin Dawson,Ordinateur portable,Électronique,10,858.16,8581.6,Cryptomonnaie,Sheltonchester
+772,2025-02-28,Vincent Powers,Vélo d'appartement,Sport,9,903.83,8134.47,PayPal,Port Jamesmouth
+773,2024-05-28,Kelly Turner,Thé,Alimentation,9,719.22,6472.98,Virement,Lake Aaron
+774,2024-03-30,Donna Morrison,Chaise,Mobilier,1,1813.11,1813.11,Espèces,West Kathrynside
+775,2023-12-24,Howard Jackson,Smartphone,Électronique,2,1301.21,2602.42,Espèces,Charlesland
+776,2024-10-30,Jay Webb,Table,Mobilier,9,357.09,3213.81,Carte bancaire,West Mike
+777,2024-06-09,Morgan Choi,Lit,Mobilier,1,77.66,77.66,Carte bancaire,Port Cathytown
+778,2023-05-15,Bryan Carter,Table,Mobilier,1,1675.2,1675.2,Espèces,West Toddburgh
+779,2023-05-06,Randall Stevenson,Table,Mobilier,2,1362.63,2725.26,PayPal,South Tammyfort
+780,2023-05-25,Daniel Kim,Canapé,Mobilier,5,203.85,1019.25,Cryptomonnaie,Harrisburgh
+781,2023-04-17,Joshua Andrews,Tapis de yoga,Sport,3,117.16,351.48,Cryptomonnaie,West Andrew
+782,2024-02-14,Angela Schneider,Casque audio,Électronique,9,1624.3,14618.7,PayPal,West Matthewberg
+783,2023-05-12,Danny Green,Café,Alimentation,4,686.25,2745.0,Carte bancaire,East Abigail
+784,2025-02-26,Samuel Reynolds,Haltères,Sport,3,1668.58,5005.74,Espèces,New Sherryberg
+785,2024-12-28,Sandra Kelly,T-shirt,Vêtements,5,1322.26,6611.3,Virement,North Matthewton
+786,2024-08-21,Robert Green,Table,Mobilier,3,929.67,2789.01,Cryptomonnaie,South Veronicaborough
+787,2023-05-08,Kevin Osborne,Thé,Alimentation,6,851.97,5111.82,Carte bancaire,Woodwardfurt
+788,2023-09-14,Donna Pratt,Jean,Vêtements,9,1761.86,15856.74,Virement,East Angelafort
+789,2024-11-18,Jeffrey Lynch,Canapé,Mobilier,8,366.64,2933.12,PayPal,Port Pamelashire
+790,2023-10-28,Andrew Turner,Table,Mobilier,7,124.7,872.9,Carte bancaire,South Katherine
+791,2023-11-13,George Sosa,Canapé,Mobilier,6,871.36,5228.16,Cryptomonnaie,East Anthonymouth
+792,2024-10-04,Melissa Campos,Chocolat,Alimentation,9,1584.04,14256.36,Espèces,Leonardton
+793,2024-10-31,Kyle Gutierrez,Canapé,Mobilier,3,1285.43,3856.29,Carte bancaire,Mikaylahaven
+794,2024-09-25,Joel Evans,Smartphone,Électronique,1,843.56,843.56,Espèces,North Lori
+795,2024-01-28,Emily Mills,T-shirt,Vêtements,6,1097.64,6585.84,Cryptomonnaie,Port Justinberg
+796,2025-02-05,Robin Cole,Raquette de tennis,Sport,10,42.46,424.6,PayPal,Lake Jacqueline
+797,2024-07-06,Carlos Myers,Casque audio,Électronique,8,185.04,1480.32,Espèces,Ponceville
+798,2024-11-27,Walter Jackson,Table,Mobilier,6,1926.57,11559.42,Virement,Port Martha
+799,2024-11-13,Molly Espinoza,Canapé,Mobilier,10,1817.3,18173.0,Virement,Stonefort
+800,2024-05-28,Jeffrey Rich,Smartphone,Électronique,1,1308.95,1308.95,Espèces,Lake Lindsayhaven
+801,2023-06-14,Amy Potts,T-shirt,Vêtements,3,1439.82,4319.46,Virement,Port Dale
+802,2024-06-06,Austin Williams,Ordinateur portable,Électronique,10,271.13,2711.3,PayPal,Michaelview
+803,2023-10-03,Brittany Moreno,Jus de fruits,Alimentation,8,1768.55,14148.4,Espèces,New Angela
+804,2024-08-26,Gary Ferguson,Tablette,Électronique,7,522.55,3657.85,Espèces,West Justin
+805,2024-09-21,Robert Johnson,Sweatshirt,Vêtements,6,1174.95,7049.7,Espèces,Port Terristad
+806,2023-04-07,Donna Smith,Chaussures,Vêtements,3,8.57,25.71,Espèces,Smithview
+807,2024-01-29,Benjamin Baker,T-shirt,Vêtements,7,595.43,4168.01,PayPal,North David
+808,2024-06-30,Amber Neal,Tapis de yoga,Sport,1,1423.7,1423.7,Espèces,West Timothy
+809,2024-05-24,Elizabeth Campbell,Ballon de foot,Sport,7,544.88,3814.16,Virement,East Traceymouth
+810,2023-09-07,Joseph Gibbs,Vélo d'appartement,Sport,9,268.87,2419.83,Virement,East Jackson
+811,2023-04-19,Zachary Cruz,Table,Mobilier,7,316.76,2217.32,Cryptomonnaie,Jacquelinestad
+812,2023-11-20,Julie Obrien,Chaussures,Vêtements,4,1678.89,6715.56,Cryptomonnaie,North Aaron
+813,2024-06-02,Debbie Wall,Chaise,Mobilier,2,288.42,576.84,PayPal,Port Kelseyville
+814,2024-02-10,Karl Adams,Tapis de yoga,Sport,6,967.05,5802.3,Carte bancaire,Kathrynbury
+815,2024-09-18,Alejandra Vargas,Veste,Vêtements,7,1133.67,7935.69,Virement,Lake Nicoleberg
+816,2024-05-14,Maria Collins,Jus de fruits,Alimentation,10,1365.87,13658.7,Carte bancaire,Roberttown
+817,2024-05-20,Rachel Tapia,Armoire,Mobilier,6,1015.42,6092.52,Cryptomonnaie,Pruittfurt
+818,2024-10-29,Jonathan Hill,Biscuits,Alimentation,7,636.53,4455.71,Carte bancaire,Santanamouth
+819,2023-04-03,Chelsea Berg,Chaise,Mobilier,9,941.86,8476.74,PayPal,Williamview
+820,2023-05-31,Jill Simon,Canapé,Mobilier,7,1900.93,13306.51,Cryptomonnaie,New Shelleyberg
+821,2024-01-09,Rebecca White,Biscuits,Alimentation,5,51.61,258.05,PayPal,Fernandezfort
+822,2023-04-08,Dylan Greer,Chaussures,Vêtements,1,149.2,149.2,PayPal,Bethanymouth
+823,2023-06-13,Edward Padilla,Tapis de yoga,Sport,7,697.6,4883.2,Espèces,New Anthonyshire
+824,2023-04-03,Kimberly Thomas,Veste,Vêtements,9,769.4,6924.6,PayPal,Lake Carlyview
+825,2023-08-14,Michael Anderson,Casque audio,Électronique,10,1672.21,16722.1,Cryptomonnaie,Williamsport
+826,2024-11-15,Joseph Serrano,Tablette,Électronique,2,536.59,1073.18,PayPal,North Michaelchester
+827,2024-01-15,Victor Delacruz,Raquette de tennis,Sport,3,1952.4,5857.2,PayPal,Beckerchester
+828,2024-08-21,Kathryn Mcgee,Veste,Vêtements,9,244.06,2196.54,Cryptomonnaie,Vaughnport
+829,2023-05-07,Alexis Cox,Casque audio,Électronique,4,564.58,2258.32,Virement,New Marioview
+830,2024-12-15,Beth May,Raquette de tennis,Sport,9,187.63,1688.67,Carte bancaire,Port Wendyland
+831,2024-09-16,Aaron Cook,Tablette,Électronique,8,1580.09,12640.72,Carte bancaire,North Beckyfort
+832,2025-02-19,Kyle Cunningham,Tablette,Électronique,1,928.77,928.77,Virement,Andrewstad
+833,2025-02-27,Nathaniel Garcia,Chaussures,Vêtements,10,180.27,1802.7,PayPal,Jasonville
+834,2024-08-14,Jonathan Kim,Chaussures,Vêtements,6,651.3,3907.8,Espèces,North Amy
+835,2023-10-19,Cody Gonzales,Lit,Mobilier,2,80.76,161.52,PayPal,Fernandezfurt
+836,2023-10-27,Dr. Brian Hinton,Armoire,Mobilier,8,1266.79,10134.32,Cryptomonnaie,Tracyside
+837,2023-03-27,Laura Jennings,Casque audio,Électronique,2,68.77,137.54,Carte bancaire,Heatherborough
+838,2023-09-20,Paige Spears,T-shirt,Vêtements,7,814.04,5698.28,Espèces,Tonyshire
+839,2024-02-21,Kara Sims,Thé,Alimentation,8,290.67,2325.36,Cryptomonnaie,Port Ianshire
+840,2024-11-02,Stephen Parks,Tapis de yoga,Sport,7,1014.05,7098.35,Virement,Basston
+841,2024-04-10,Monica Aguilar,Sweatshirt,Vêtements,7,1492.32,10446.24,Espèces,Starkfurt
+842,2024-12-27,Elizabeth Huff,Raquette de tennis,Sport,4,1042.32,4169.28,Espèces,Lake Eugene
+843,2023-05-27,Robert Johnson,T-shirt,Vêtements,9,442.91,3986.19,Virement,Andrewberg
+844,2024-12-26,Rachel Owen,Chaussures,Vêtements,5,1700.08,8500.4,Espèces,Fryefort
+845,2023-12-18,Chase Lane,Table,Mobilier,4,1399.84,5599.36,Espèces,North Abigail
+846,2025-03-01,Samuel Horne,Smartphone,Électronique,1,907.43,907.43,PayPal,West Darleneshire
+847,2025-01-22,Gary Green,Montre connectée,Électronique,3,533.26,1599.78,Cryptomonnaie,Sarahville
+848,2024-08-22,Jennifer Andersen,Raquette de tennis,Sport,8,469.78,3758.24,Virement,Russellmouth
+849,2024-10-02,Melissa Hogan,Chaussures,Vêtements,8,1752.41,14019.28,Cryptomonnaie,Samanthastad
+850,2023-04-06,Gloria Wilson,Table,Mobilier,6,1901.07,11406.42,Carte bancaire,Rosshaven
+851,2024-09-21,Sharon Hernandez,Raquette de tennis,Sport,4,1533.44,6133.76,Virement,Theresahaven
+852,2024-03-31,Eric Potts,Chocolat,Alimentation,4,1473.24,5892.96,Espèces,Ramirezburgh
+853,2024-09-21,Eric Smith,Café,Alimentation,6,377.81,2266.86,PayPal,Burnsfort
+854,2024-08-21,Melissa Rose,Jus de fruits,Alimentation,10,69.6,696.0,PayPal,West Brandon
+855,2024-04-14,Justin Gregory,Table,Mobilier,9,663.63,5972.67,Espèces,Paulaberg
+856,2024-01-22,Daniel Parsons,Ballon de foot,Sport,5,463.17,2315.85,Virement,Josephburgh
+857,2024-11-21,Timothy Beck,Café,Alimentation,1,1875.47,1875.47,PayPal,Stacieton
+858,2024-12-11,Dennis Williams,Montre connectée,Électronique,3,1471.88,4415.64,PayPal,Banksmouth
+859,2023-05-21,Timothy Russo,Raquette de tennis,Sport,7,301.16,2108.12,Cryptomonnaie,Jessicashire
+860,2023-04-14,Matthew Sheppard,Chocolat,Alimentation,2,237.35,474.7,Carte bancaire,Jeffreytown
+861,2023-05-18,Catherine Robinson,Haltères,Sport,5,1184.38,5921.9,Espèces,Robertstown
+862,2023-04-29,Steven Brown,Canapé,Mobilier,9,1568.16,14113.44,PayPal,West Patrick
+863,2024-04-02,James Diaz,Vélo d'appartement,Sport,4,1120.07,4480.28,PayPal,South Deannaland
+864,2024-11-03,Kristy Joyce,Tablette,Électronique,1,1280.55,1280.55,Carte bancaire,Lake Susanview
+865,2024-06-20,Daniel Berry,Tapis de yoga,Sport,5,407.71,2038.55,Carte bancaire,North Jenniferside
+866,2023-05-15,Susan Ewing,Ordinateur portable,Électronique,10,816.71,8167.1,Carte bancaire,West Kelly
+867,2024-11-21,Bridget Walters,Café,Alimentation,9,792.4,7131.6,Cryptomonnaie,West Ronnie
+868,2025-01-11,Matthew Hudson,Sweatshirt,Vêtements,7,1998.76,13991.32,Cryptomonnaie,North Amyside
+869,2025-01-08,Robert Maxwell,Tablette,Électronique,8,1355.72,10845.76,Virement,Gordonland
+870,2024-09-10,Christopher Scott,Canapé,Mobilier,3,831.97,2495.91,Carte bancaire,New Jenniferside
+871,2023-11-16,Karen Phillips,Veste,Vêtements,2,415.77,831.54,Espèces,Rachelchester
+872,2025-03-09,Robert Manning,Lit,Mobilier,9,1985.02,17865.18,PayPal,West Johnathan
+873,2023-04-09,Barry Evans,Smartphone,Électronique,8,545.84,4366.72,PayPal,Roseview
+874,2024-03-09,Frank Rodriguez,Chaussures,Vêtements,1,574.97,574.97,Cryptomonnaie,Richardchester
+875,2023-08-07,Troy Davis,Casque audio,Électronique,4,1721.42,6885.68,PayPal,East Bruce
+876,2023-10-31,Patricia White,Lit,Mobilier,1,1086.42,1086.42,Carte bancaire,Port Caleb
+877,2023-04-18,Veronica Pope,Raquette de tennis,Sport,1,1446.06,1446.06,Espèces,South Claudia
+878,2023-11-11,Chelsea Webb,Canapé,Mobilier,5,1475.86,7379.3,Cryptomonnaie,Jessicaside
+879,2024-12-03,Claudia Bailey,Ballon de foot,Sport,6,1897.53,11385.18,Espèces,North Bradleystad
+880,2023-06-12,Natalie Mathews,Thé,Alimentation,2,577.72,1155.44,Cryptomonnaie,Destinyborough
+881,2024-03-11,Christopher Martin,Table,Mobilier,6,1922.11,11532.66,Espèces,Washingtontown
+882,2023-06-24,Ashley Williams,Café,Alimentation,2,1730.59,3461.18,Virement,Martinezberg
+883,2024-07-09,Jacqueline Meyers,Chocolat,Alimentation,8,1976.38,15811.04,Cryptomonnaie,North Tonya
+884,2025-03-02,Gina Ortega,Armoire,Mobilier,1,1329.06,1329.06,Virement,New Calebmouth
+885,2024-10-08,Mark Smith,Chaise,Mobilier,1,1643.4,1643.4,Virement,Ericatown
+886,2024-11-09,Philip Cooper,Raquette de tennis,Sport,4,716.42,2865.68,PayPal,Jordanfort
+887,2023-12-12,William Brown,Armoire,Mobilier,2,718.61,1437.22,Carte bancaire,New Matthewview
+888,2024-09-12,Paul White,Lit,Mobilier,8,389.72,3117.76,Virement,Christopherview
+889,2024-11-27,John Simpson,Chocolat,Alimentation,1,785.15,785.15,Virement,Lake Dawn
+890,2024-04-01,Megan Faulkner,Chocolat,Alimentation,2,1517.0,3034.0,Virement,Kellyview
+891,2023-11-23,Emily Mckenzie,Tablette,Électronique,5,315.3,1576.5,PayPal,New Samuel
+892,2025-01-15,Rachel Thompson,Table,Mobilier,5,1311.46,6557.3,PayPal,West Michaelborough
+893,2024-01-30,Paul Mills,Biscuits,Alimentation,5,980.99,4904.95,Virement,Port Sarah
+894,2023-11-20,Jennifer Wells,Table,Mobilier,10,1353.91,13539.1,Virement,Hollymouth
+895,2024-06-30,Christine Edwards,Canapé,Mobilier,6,237.48,1424.88,Carte bancaire,Port Jill
+896,2023-11-19,Desiree Nguyen,Jean,Vêtements,1,1130.53,1130.53,Cryptomonnaie,Coxmouth
+897,2023-03-29,Lauren Spears,Ballon de foot,Sport,8,1083.39,8667.12,PayPal,Williamsfort
+898,2024-04-11,Penny Warner,Smartphone,Électronique,5,630.07,3150.35,Cryptomonnaie,East Brittany
+899,2023-08-20,Mr. Daniel Jackson DDS,Tablette,Électronique,1,18.37,18.37,PayPal,West Evan
+900,2023-07-12,Charles Anderson,Veste,Vêtements,3,8.19,24.57,Carte bancaire,West Neil
+901,2023-12-24,Timothy Murray,Tablette,Électronique,9,1069.43,9624.87,Espèces,Mcclainborough
+902,2023-11-26,Erica Fuller,Casque audio,Électronique,10,354.26,3542.6,Virement,Bairdside
+903,2023-07-04,Alvin Gonzales,Vélo d'appartement,Sport,7,1194.25,8359.75,Espèces,East Timothy
+904,2023-05-16,Francis Harrison,Chocolat,Alimentation,8,844.47,6755.76,Virement,Lisamouth
+905,2023-07-18,Rose Simon,Café,Alimentation,10,704.35,7043.5,Carte bancaire,Lake Michaelberg
+906,2023-12-18,Dennis Bennett,Ordinateur portable,Électronique,9,1401.78,12616.02,Carte bancaire,Lake Kayla
+907,2024-05-12,James Dean,Jean,Vêtements,10,770.09,7700.9,Carte bancaire,Elizabethview
+908,2025-01-17,Krystal Ellis,Vélo d'appartement,Sport,1,1965.38,1965.38,Carte bancaire,Wallermouth
+909,2024-06-09,Sandra Atkins,Thé,Alimentation,6,1598.11,9588.66,Carte bancaire,North Jessicatown
+910,2024-06-21,Natasha Sanders,Smartphone,Électronique,1,267.37,267.37,Carte bancaire,West Michaelmouth
+911,2024-06-10,Larry Bennett,Armoire,Mobilier,1,1611.46,1611.46,Cryptomonnaie,Masonhaven
+912,2024-09-17,Robin Taylor,Tablette,Électronique,8,1884.59,15076.72,Carte bancaire,Butlerberg
+913,2024-02-02,Louis Herrera,Vélo d'appartement,Sport,5,139.61,698.05,Cryptomonnaie,North Richardstad
+914,2023-11-14,Richard Davis,Tablette,Électronique,2,1014.42,2028.84,Virement,South Tanya
+915,2024-01-24,Brian Brown,Haltères,Sport,3,1628.8,4886.4,Carte bancaire,Grantfort
+916,2023-05-23,Michael Andersen,Jean,Vêtements,5,19.55,97.75,Espèces,South Chadside
+917,2025-02-26,Erin Bishop,Vélo d'appartement,Sport,6,840.86,5045.16,PayPal,Williamston
+918,2024-05-15,Matthew Jones,Table,Mobilier,1,1894.31,1894.31,PayPal,West Adam
+919,2024-07-05,John Roberts,Tapis de yoga,Sport,4,627.54,2510.16,PayPal,New Anthony
+920,2024-07-10,Traci Brown,Jean,Vêtements,9,1365.71,12291.39,Carte bancaire,Kevinstad
+921,2023-10-24,Jeffrey Martinez,Chaussures,Vêtements,6,936.44,5618.64,Virement,Tinaberg
+922,2024-10-21,Elizabeth Jimenez,Ordinateur portable,Électronique,5,260.44,1302.2,Virement,Christopherbury
+923,2023-07-31,Angela Payne,Vélo d'appartement,Sport,1,524.99,524.99,Carte bancaire,Lake Brentville
+924,2024-08-09,Keith Gomez,Veste,Vêtements,10,416.3,4163.0,Carte bancaire,Jessicashire
+925,2023-10-22,Kathy Miller MD,Tablette,Électronique,10,1255.35,12553.5,Cryptomonnaie,New Melissa
+926,2023-07-03,Jennifer Gallegos,Café,Alimentation,5,1401.56,7007.8,Espèces,South Steven
+927,2024-05-27,Cristian Smith,Table,Mobilier,1,1346.18,1346.18,Cryptomonnaie,North Deborah
+928,2024-10-18,Carol Miller,Jean,Vêtements,5,1940.35,9701.75,Carte bancaire,East John
+929,2024-05-11,Daniel Goodman,Thé,Alimentation,1,273.65,273.65,Cryptomonnaie,Port Todd
+930,2024-10-26,James Wright,Thé,Alimentation,10,1768.35,17683.5,Cryptomonnaie,Tuckershire
+931,2024-09-23,Richard Williams,Chocolat,Alimentation,5,184.17,920.85,Espèces,Meyersmouth
+932,2024-05-10,James Campbell,Biscuits,Alimentation,5,858.6,4293.0,Carte bancaire,Lake Lindseyside
+933,2023-05-09,Duane Morris,Tapis de yoga,Sport,3,1047.1,3141.3,Espèces,Ramirezland
+934,2023-04-07,Angela Townsend,Café,Alimentation,9,153.64,1382.76,Cryptomonnaie,South Danielle
+935,2023-06-02,James Mcdonald,Jean,Vêtements,3,744.0,2232.0,Virement,Saundersbury
+936,2024-07-23,Frank Kelley,Smartphone,Électronique,2,1355.03,2710.06,Carte bancaire,Mosleyberg
+937,2023-07-29,Hannah Johnson,Jean,Vêtements,1,1280.83,1280.83,Carte bancaire,New Anthony
+938,2025-03-01,Scott Brown,Smartphone,Électronique,4,1144.31,4577.24,Cryptomonnaie,Morenoton
+939,2024-04-21,Seth Dunn,Haltères,Sport,9,555.51,4999.59,Espèces,Wongfort
+940,2023-10-24,Kimberly Rowe,Canapé,Mobilier,9,1308.44,11775.96,Virement,Lake Anne
+941,2024-07-22,Kimberly Owens,Veste,Vêtements,3,675.62,2026.86,Espèces,Willisshire
+942,2024-10-07,Jason Griffin,Biscuits,Alimentation,1,1971.89,1971.89,PayPal,South Jeffreyfurt
+943,2024-11-12,Christopher Mccoy,Canapé,Mobilier,4,1933.01,7732.04,Carte bancaire,Port Josephside
+944,2025-01-02,Christina Morales,Ordinateur portable,Électronique,5,1423.5,7117.5,Virement,Rebeccaton
+945,2024-10-01,Michael Stanley,Ballon de foot,Sport,1,9.89,9.89,Espèces,South Markberg
+946,2024-03-01,Phillip Bright,Café,Alimentation,3,1230.01,3690.03,Virement,New Alexandertown
+947,2024-06-11,Patrick Rowe,Lit,Mobilier,6,449.68,2698.08,Virement,Waltershire
+948,2024-01-03,Jonathan Howe,Sweatshirt,Vêtements,6,1504.13,9024.78,PayPal,North Steven
+949,2023-04-14,Ryan Johnson,Sweatshirt,Vêtements,4,1776.86,7107.44,PayPal,South Tracey
+950,2023-11-05,Jessica Barber,Armoire,Mobilier,10,1446.16,14461.6,Espèces,Andrewsborough
+951,2024-06-23,Jessica Pugh,Montre connectée,Électronique,10,625.3,6253.0,Virement,Lake Danafurt
+952,2024-09-18,Mark Ramirez,Smartphone,Électronique,2,1763.08,3526.16,Espèces,Lake Marie
+953,2024-12-24,Margaret Baldwin,Biscuits,Alimentation,9,1097.25,9875.25,PayPal,North Jackie
+954,2023-05-27,Veronica Salinas,Jean,Vêtements,4,380.16,1520.64,Virement,Brookechester
+955,2024-12-02,Eric Brown,Jean,Vêtements,5,1213.5,6067.5,Carte bancaire,Sharpburgh
+956,2023-04-28,Sheila Foster,Ballon de foot,Sport,10,1564.76,15647.6,Carte bancaire,New Ericmouth
+957,2023-12-09,Brian Cooper,Tapis de yoga,Sport,6,847.43,5084.58,Carte bancaire,Lorimouth
+958,2024-01-03,Kenneth Jimenez,Tablette,Électronique,9,364.48,3280.32,Cryptomonnaie,South Dawn
+959,2024-11-05,Victoria Thomas,Lit,Mobilier,9,1808.99,16280.91,Cryptomonnaie,Paulborough
+960,2023-12-17,Peggy Ryan,Biscuits,Alimentation,9,953.33,8579.97,Virement,West Jerrymouth
+961,2024-10-17,Darius Fox,Montre connectée,Électronique,7,1910.63,13374.41,Cryptomonnaie,North Jonathan
+962,2024-01-11,Lindsey Baldwin,Casque audio,Électronique,7,1921.9,13453.3,Espèces,Brownshire
+963,2024-06-11,Adam Mcdonald,Ordinateur portable,Électronique,2,263.77,527.54,PayPal,Theodoremouth
+964,2024-09-12,Kristen Cameron,Ballon de foot,Sport,10,660.08,6600.8,Cryptomonnaie,Gutierrezmouth
+965,2023-10-23,Mark Watson,Biscuits,Alimentation,10,1290.85,12908.5,PayPal,New Michael
+966,2023-08-24,Mary Daniels,Tapis de yoga,Sport,8,1901.49,15211.92,Virement,Aimeeshire
+967,2024-09-01,James Barry,Tapis de yoga,Sport,6,1715.75,10294.5,Espèces,New Ginaberg
+968,2024-10-18,Michael Moore,Smartphone,Électronique,8,1897.76,15182.08,Virement,Allenland
+969,2024-12-02,Chase Li,Ballon de foot,Sport,10,1461.21,14612.1,PayPal,Peckfurt
+970,2025-03-19,Sonya Lynch,Armoire,Mobilier,7,1604.93,11234.51,Espèces,West Nicholas
+971,2024-06-25,Tyler Martinez,Jus de fruits,Alimentation,6,1542.93,9257.58,Carte bancaire,West Michelle
+972,2023-11-06,Marilyn Cox,Smartphone,Électronique,10,1221.66,12216.6,PayPal,Michaelville
+973,2025-03-23,Jessica Johnson,Smartphone,Électronique,10,815.49,8154.9,Espèces,East Jamesmouth
+974,2024-08-16,Marc Rodriguez,Montre connectée,Électronique,10,1101.64,11016.4,PayPal,Adamsbury
+975,2024-07-03,Daniel Brewer,Thé,Alimentation,7,1466.88,10268.16,PayPal,Ashleyshire
+976,2024-02-29,Phillip Moran,Chaise,Mobilier,5,1764.39,8821.95,Carte bancaire,Langburgh
+977,2025-03-15,Alejandro Morgan,Casque audio,Électronique,3,1716.0,5148.0,Virement,North Jenniferfurt
+978,2025-02-24,Stephen Berg,Canapé,Mobilier,1,594.82,594.82,Virement,East Tiffany
+979,2024-11-09,Erin Valencia,Ballon de foot,Sport,9,790.82,7117.38,Virement,Williamsonville
+980,2024-09-09,Shawn Moore,Chocolat,Alimentation,6,1984.53,11907.18,PayPal,Garrettfurt
+981,2024-06-28,Lori Woods,Chaise,Mobilier,1,861.34,861.34,Espèces,Port Rachelberg
+982,2023-06-01,Jeremy Thompson,Raquette de tennis,Sport,4,413.75,1655.0,Espèces,West Teresa
+983,2023-07-13,Jose Baker,Raquette de tennis,Sport,3,188.2,564.6,Virement,Sierraville
+984,2023-11-20,Cindy Schultz,Canapé,Mobilier,9,1623.82,14614.38,Virement,New Allenhaven
+985,2024-08-23,Thomas Sanchez,Chaussures,Vêtements,2,1794.44,3588.88,Virement,Cartermouth
+986,2024-12-23,Colin Doyle,Sweatshirt,Vêtements,9,10.99,98.91,Espèces,North Victorberg
+987,2023-12-16,Elizabeth Long,T-shirt,Vêtements,3,476.43,1429.29,Cryptomonnaie,West Nicoleland
+988,2023-06-27,Elizabeth Simmons,Table,Mobilier,7,875.41,6127.87,Cryptomonnaie,Angelafurt
+989,2024-09-27,Linda Pena,T-shirt,Vêtements,8,1925.23,15401.84,Espèces,Hoffmanhaven
+990,2024-12-28,Brian Herman,Haltères,Sport,9,1607.12,14464.08,Virement,Frederickfurt
+991,2024-07-16,David Adams,Ordinateur portable,Électronique,4,1152.88,4611.52,Virement,Scotttown
+992,2024-01-17,Alexandra Mclean,Montre connectée,Électronique,5,663.51,3317.55,Espèces,Stevensside
+993,2024-10-27,Shane Rhodes,Thé,Alimentation,7,582.77,4079.39,Cryptomonnaie,West Thomas
+994,2024-03-05,Allison Frederick,Café,Alimentation,10,801.47,8014.7,PayPal,Greeneport
+995,2024-02-28,Jason Jones,Thé,Alimentation,4,1033.79,4135.16,Carte bancaire,Rebekahburgh
+996,2024-03-26,Shawn Winters,Tapis de yoga,Sport,2,866.89,1733.78,Espèces,Caseland
+997,2024-07-27,Lisa Taylor,Armoire,Mobilier,1,180.4,180.4,Espèces,West Jasonchester
+998,2023-12-08,Wayne Suarez,Chaussures,Vêtements,10,441.2,4412.0,PayPal,Stephaniehaven
+999,2023-04-17,Christine Obrien,Chaise,Mobilier,3,1478.63,4435.89,Cryptomonnaie,New Allisonburgh
+1000,2024-11-20,John Davila DDS,Tablette,Électronique,6,1996.87,11981.22,PayPal,West Juanborough
