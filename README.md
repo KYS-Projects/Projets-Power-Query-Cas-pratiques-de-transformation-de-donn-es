@@ -1,6 +1,10 @@
 # Projets-Power-Query-Cas-pratiques-de-transformation-de-donn-es
 Projet de transformation et d’analyse de données avec Power Query. Contient plusieurs cas pratiques : nettoyage, dé-pivotage, consolidation de fichiers volumineux et préparation de datasets pour tableaux croisés dynamiques (TCD) et analyses avancées.
 
+# Remarque :
+Les résultats de tous les cas pratiques se trouvent dans le fichier “Résultat Power Query.xlsx”.
+Les données utilisées dans ce projet sont fictives et ont été créées uniquement à des fins pédagogiques et de démonstration.
+
 ## Cas 1 : traitement.xlsx
 
 Ce jeu de données présente les ventes quotidiennes réalisées en mars 2025 dans trois villes : Paris, New York et Londres. Les informations incluent la date, la ville, le montant des ventes ainsi qu’un total journalier.
