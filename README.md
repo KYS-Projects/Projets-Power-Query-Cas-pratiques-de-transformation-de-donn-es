@@ -9,11 +9,11 @@ Cependant, la structure initiale du fichier n’est pas directement exploitable 
 
 L’objectif de ce projet est d’utiliser Power Query afin de nettoyer et transformer les données pour obtenir une table structurée contenant les colonnes suivantes :
 
-Date
+- Date
 
-Ville
+- Ville
 
-Ventes
+- Ventes
 
 Une fois les données préparées, elles peuvent être utilisées pour analyser l’évolution des ventes et comparer les performances entre les différentes villes.
 
