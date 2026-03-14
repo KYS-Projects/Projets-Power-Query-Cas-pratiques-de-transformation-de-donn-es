@@ -1,7 +1,7 @@
 # Projets-Power-Query-Cas-pratiques-de-transformation-de-donn-es
 Projet de transformation et d’analyse de données avec Power Query. Contient plusieurs cas pratiques : nettoyage, dé-pivotage, consolidation de fichiers volumineux et préparation de datasets pour tableaux croisés dynamiques (TCD) et analyses avancées.
 
-Cas 1 : traitement.xlsx
+## Cas 1 : traitement.xlsx
 
 Ce jeu de données présente les ventes quotidiennes réalisées en mars 2025 dans trois villes : Paris, New York et Londres. Les informations incluent la date, la ville, le montant des ventes ainsi qu’un total journalier.
 
@@ -17,7 +17,7 @@ Ventes
 
 Une fois les données préparées, elles peuvent être utilisées pour analyser l’évolution des ventes et comparer les performances entre les différentes villes.
 
-Cas 2 : ventes_entreprise.csv
+## Cas 2 : ventes_entreprise.csv
 
 Le fichier CSV contient environ 1000 transactions réalisées entre 2023 et 2025, avec les colonnes suivantes :
 ID, date de vente, client, produit, catégorie, quantité, prix unitaire, total, mode de paiement et ville.
@@ -32,7 +32,7 @@ Vérifier et recalculer les totaux afin d’assurer la cohérence des données.
 
 Préparer le dataset pour des analyses par catégorie, ville, produit ou mode de paiement.
 
-Cas 3 : Dé-pivotage d’un tableau
+## Cas 3 : Dé-pivotage d’un tableau
 
 Le tableau contient les ventes de différents produits dans quatre villes : Paris, Nice, Marseille et Toulouse. Les colonnes incluent l’identifiant du produit, le nom du produit et les montants de vente par ville.
 
@@ -42,19 +42,19 @@ Dé-pivoter le tableau afin de passer d’un format large (une colonne par ville
 
 Créer des colonnes normalisées :
 
-Identifiant
+- Identifiant
 
-Produit
+- Produit
 
-Ville
+- Ville
 
-Montant (€)
+- Montant (€)
 
 Convertir les montants en valeurs numériques pour faciliter les calculs.
 
 Préparer les données pour la création d’un tableau croisé dynamique (TCD) et des analyses par produit et par ville.
 
-Cas 4 : Gestion d’un fichier volumineux (.txt)
+## Cas 4 : Gestion d’un fichier volumineux (.txt)
 
 Le fichier TXT contient 2 000 000 de lignes avec les colonnes suivantes :
 ID, Nom, Titre et Salaire.
@@ -67,37 +67,37 @@ Importer le fichier TXT directement dans Power Query pour contourner la limitati
 
 Nettoyer et convertir les colonnes :
 
-ID en entier
+- ID en entier
 
-Nom et Titre en texte
+- Nom et Titre en texte
 
-Salaire en nombre décimal
+- Salaire en nombre décimal
 
 Préparer les données pour générer un tableau croisé dynamique (TCD) permettant d’analyser les salaires par titre, par nom ou par regroupement spécifique.
 
 Maintenir les 2 000 000 de lignes dans Power Query sans les charger intégralement dans Excel afin de garantir la performance et la fiabilité des analyses.
 
-Cas 5 : Consolidation de plusieurs fichiers (Retailers)
+## Cas 5 : Consolidation de plusieurs fichiers (Retailers)
 
 Ce projet implique trois fichiers distincts correspondant aux enseignes Costco, Target et Walgreens, possédant les mêmes colonnes :
 
-Retailer
+- Retailer
 
-Contact
+- Contact
 
-Retailer ID
+- Retailer ID
 
-Order Date
+- Order Date
 
-Payment Date
+- Payment Date
 
-Region--State
+- Region--State
 
-Beverage Brand
+- Beverage Brand
 
-Price per Unit
+- Price per Unit
 
-Units Sold
+- Units Sold
 
 Chaque fichier contient l’historique des ventes avec des informations sur les produits, les quantités vendues et les prix unitaires.
 
