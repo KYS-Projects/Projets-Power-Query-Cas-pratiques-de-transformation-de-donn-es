@@ -1,9 +1,10 @@
 # Projets-Power-Query-Cas-pratiques-de-transformation-de-donn-es
 Projet de transformation et d’analyse de données avec Power Query. Contient plusieurs cas pratiques : nettoyage, dé-pivotage, consolidation de fichiers volumineux et préparation de datasets pour tableaux croisés dynamiques (TCD) et analyses avancées.
+Pour accéder au fichier, vous pouvez utiliser le lien suivant : https://drive.google.com/drive/folders/1iGfa-lbT8G0XYk407lw_JuR3KLwhw6Dv?usp=drive_link
 
 # Remarque :
-Les résultats de tous les cas pratiques se trouvent dans le fichier “Résultat Power Query.xlsx”.
-Les données utilisées dans ce projet sont fictives et ont été créées uniquement à des fins pédagogiques et de démonstration.
+Les résultats de tous les cas pratiques se trouvent dans le fichier “Résultat Power Query.xlsx”. Les données utilisées dans ce projet sont fictives et ont été créées uniquement à des fins pédagogiques et de démonstration.
+Pour accéder au fichier, vous pouvez utiliser le lien suivant : https://drive.google.com/drive/folders/1iGfa-lbT8G0XYk407lw_JuR3KLwhw6Dv?usp=drive_link
 
 ## Cas 1 : traitement.xlsx
 
